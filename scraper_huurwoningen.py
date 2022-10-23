@@ -93,10 +93,11 @@ def get_all_apartment_data_huurwoningen(urls):
     if len(all_data) == 0:
         return
     df = pd.DataFrame(all_data)
-    if not os.path.isfile(csv_file := 'apartment_data_huurwoningen.csv'):
+    if not os.path.isfile(csv_file := 'data/apartment_data_huurwoningen.csv'):
         df.to_csv(csv_file, index=False)
     else:
         df.to_csv(csv_file, mode='a', header=False, index=False)
+    return df
 
 
 def update_apartments(rerun_all=False):
@@ -113,8 +114,11 @@ def update_apartments(rerun_all=False):
     missing_apartments = all_apartments_now - all_apartments_old
     return missing_apartments
 
+def scrape_huurwoningen(rerun_all=False):
+    apartments_to_scrape = update_apartments(rerun_all)
+    print(f'Updating {len(apartments_to_scrape)} entries')
+    df = get_all_apartment_data_huurwoningen(apartments_to_scrape)
+    return df
 
 if __name__ == '__main__':
-    apartments_to_scrape = update_apartments(True)
-    print(f'Updating {len(apartments_to_scrape)} entries')
-    get_all_apartment_data_huurwoningen(apartments_to_scrape)
+    scrape_huurwoningen(False)

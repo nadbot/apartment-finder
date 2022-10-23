@@ -1,0 +1,175 @@
+,address,postcode,rental_price,service_costs,living_area,rooms,bedrooms,bathrooms,balcony,garden,energielabel,url,garden_size,Rental agreement,Deposit,Income requirement,Maximum number of residents,Duration
+0,Apartment Van Heuven Goedhartplein 653 in Utrecht,3527 DZ ,1025,,54,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/9e510513/van-heuven-goedhartplein,,,,,,
+1,Apartment Van Sijpesteijnkade in Utrecht,3521 AH ,950,,43,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/bb76b004/van-sijpesteijnkade,,,,,,
+2,House Carel Willinkstraat in Utrecht,3544 MA ,1650,,80,3,2.0,,False,True,A,https://www.pararius.com/house-for-rent/utrecht/8353dcca/carel-willinkstraat,,Temporary rental,€3300,€4950,2,
+3,Apartment Jutfaseweg 96 in Utrecht,3522 HH ,700,,20,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/32222706/jutfaseweg,,Unlimited period,,,,Minimum of 1 months
+4,Apartment Pal Maleterstraat 57 in Utrecht,3573 PG ,1675,,112,4,3.0,1.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/3b2e0368/pal-maleterstraat,,,,,,
+5,Apartment Koningslaan in Utrecht,3583 GB ,1250,,50,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/aef46284/koningslaan,,,,,,
+6,Apartment Van Hoornekade 135 in Utrecht,3554 AT ,1100,,90,4,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/3e92cf4e/van-hoornekade,,,,,,
+7,Apartment Visschersplein 178 in Utrecht,3511 LX ,1495,,70,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/5010e514/visschersplein,,,€2990,,,
+8,Studio Berlijnplein in Utrecht,3541 CM ,633,327,30,1,,1.0,False,True,,https://www.pararius.com/studio-for-rent/utrecht/2c891cec/berlijnplein,,,€1500,€2000,2,
+9,Apartment 2e Spechtstraat in Utrecht,3514 TW ,1625,,110,3,2.0,1.0,True,True,,https://www.pararius.com/apartment-for-rent/utrecht/a17fb00d/2e-spechtstraat,12,,€1625,,,
+10,Apartment Trumanlaan in Utrecht,3527 BM ,1530,,75,3,2.0,2.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/32db0281/trumanlaan,,Unlimited period,€2000,,,
+11,Apartment Karel Doormanlaan in Utrecht,3572 NA ,1750,,100,3,2.0,1.0,True,False,E,https://www.pararius.com/apartment-for-rent/utrecht/bec8caaf/karel-doormanlaan,,Unlimited period,€3500,€5250,,
+12,Apartment Peltlaan in Utrecht,3527 EB ,1300,,72,3,2.0,1.0,False,False,E,https://www.pararius.com/apartment-for-rent/utrecht/83bcf533/peltlaan,,Temporary rental,€3500,,,
+13,Studio Oudegracht in Utrecht,3511 AB ,730,315,24,1,1.0,1.0,False,True,,https://www.pararius.com/studio-for-rent/utrecht/26e0fcfb/oudegracht,,Temporary rental,€1500,,1,
+14,Apartment Pal Maleterstraat 47 in Utrecht,3573 PG ,1325,,76,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/3b1d1c8e/pal-maleterstraat,,,,,,
+15,Apartment Bemuurde Weerd O.Z. 50 in Utrecht,3514 AS ,1295,,53,2,1.0,1.0,False,False,D,https://www.pararius.com/apartment-for-rent/utrecht/ce7bd98e/bemuurde-weerd-o-z,,,,,,
+16,Apartment Van Heuven Goedhartplein 718 in Utrecht,3527 DZ ,1105,,54,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/8a2351ec/van-heuven-goedhartplein,,,,,,
+17,Apartment Europaplein 859 in Utrecht,3526 WS ,1150,,45,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/432542fa/europaplein,,,,,,Minimum of 12 months
+18,Apartment Gruttersdijk 28 H in Utrecht,3514 BH ,1500,,60,2,1.0,1.0,True,False,,https://www.pararius.com/apartment-for-rent/utrecht/00ff528d/gruttersdijk,,Temporary rental,,,,"Minimum of 12, maximum of 24 months"
+19,Apartment Twijnstraat in Utrecht,3511 ZL ,1150,,31,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/40a9c93d/twijnstraat,,Temporary rental,€1150,,,
+20,Apartment Monarchvlinderlaan in Utrecht,3544 DC ,1295,,56,3,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/7fc58433/monarchvlinderlaan,,Temporary rental,€2590,,2,
+21,Apartment Catharijnesingel in Utrecht,3511 GM ,1600,250,32,2,1.0,,False,False,D,https://www.pararius.com/apartment-for-rent/utrecht/e307977c/catharijnesingel,,,,,,
+22,Apartment Vleutenseweg in Utrecht,3532 HL ,1650,,47,2,1.0,,True,True,,https://www.pararius.com/apartment-for-rent/utrecht/f8fe35e2/vleutenseweg,,,€1650,,,
+23,Apartment Zambesidreef 139 in Utrecht,3564 CB ,1230,,88,3,2.0,1.0,True,False,A+,https://www.pararius.com/apartment-for-rent/utrecht/6d03c0f1/zambesidreef,,,,,,
+24,Studio Bemuurde Weerd O.Z. 33 in Utrecht,3514 AP ,1500,,55,1,1.0,1.0,True,True,,https://www.pararius.com/studio-for-rent/utrecht/fc24df83/bemuurde-weerd-o-z,60,Temporary rental,€3000,,,
+25,Apartment Auriollaan in Utrecht,3527 ES ,1575,,75,4,3.0,1.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/44a0c9b1/auriollaan,,Temporary rental,€3150,€4725,,
+26,Apartment Kromme Nieuwegracht in Utrecht,3512 HC ,1695,,100,3,2.0,1.0,True,False,,https://www.pararius.com/apartment-for-rent/utrecht/36e48ff9/kromme-nieuwegracht,,Temporary rental,€3390,€5085,,
+27,Apartment Nieuwegracht in Utrecht,3512 LV ,1350,,45,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/a15db453/nieuwegracht,,Temporary rental,€2700,€4050,1,
+28,Apartment Westerdijk 4 0116 in Utrecht,3513 EW ,895,,28,1,,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/7e953747/westerdijk,,,,,,
+29,Apartment Pieterskerkhof 23 L in Utrecht,3512 JS ,1750,100,63,2,1.0,1.0,False,False,A+++,https://www.pararius.com/apartment-for-rent/utrecht/70eb0c4b/pieterskerkhof,,,,,,
+30,Apartment Koekoeksplein in Utrecht,3514 TT ,1515,,45,3,2.0,1.0,False,True,B,https://www.pararius.com/apartment-for-rent/utrecht/b686dd1f/koekoeksplein,10,Temporary rental,€3030,,2,
+31,Apartment Gruttersdijk 27 M in Utrecht,3514 BH ,1400,,51,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/a03a96cc/gruttersdijk,,Temporary rental,,,,"Minimum of 12, maximum of 24 months"
+32,Apartment Bloemstraat in Utrecht,3581 WE ,1295,,45,2,1.0,1.0,False,True,D,https://www.pararius.com/apartment-for-rent/utrecht/dff215e0/bloemstraat,12,Unlimited period,,,,Minimum of 12 months
+33,Studio Vleutenseweg in Utrecht,3532 HH ,1295,,20,1,,,False,False,,https://www.pararius.com/studio-for-rent/utrecht/a02ba2e8/vleutenseweg,,,€2590,,1,
+34,Studio Limapad in Utrecht,3584 SR ,520,,22,2,1.0,2.0,False,False,,https://www.pararius.com/studio-for-rent/utrecht/48156611/limapad,,,,,,
+35,Apartment Wisselstraat in Utrecht,3551 WG ,1600,,47,2,1.0,,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/66348f0e/wisselstraat,,,,,,
+36,Apartment Maliestraat 1 5 in Utrecht,3581 SH ,1745,150,60,2,1.0,1.0,False,True,,https://www.pararius.com/apartment-for-rent/utrecht/f97bb17d/maliestraat,,,€3490,,,
+37,Apartment Domplein in Utrecht,3512 JC ,975,,22,1,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/3303ef9a/domplein,,,,,,
+38,Apartment Breedstraat in Utrecht,3512 TX ,1400,,48,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/ab97c227/breedstraat,,,,,,
+39,Apartment Kromme Nieuwegracht in Utrecht,3512 HL ,1650,,60,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/df2a0d25/kromme-nieuwegracht,,Temporary rental,€3300,€4950,,
+40,House Bollenhofsestraat in Utrecht,3572 VH ,1500,,72,3,2.0,1.0,False,False,,https://www.pararius.com/house-for-rent/utrecht/49579329/bollenhofsestraat,,,,,,
+41,House Abstederdijk in Utrecht,3582 BE ,1600,,87,4,2.0,2.0,False,True,,https://www.pararius.com/house-for-rent/utrecht/405afd42/abstederdijk,45,,,,,
+42,House Korenbloemstraat in Utrecht,3551 GM ,1750,,85,4,2.0,2.0,False,True,F,https://www.pararius.com/house-for-rent/utrecht/1f1f3263/korenbloemstraat,16,Unlimited period,€1750,€5250,2,
+43,Apartment Hebe Kohlbruggeweg in Utrecht,3527 MD ,1500,,67,2,1.0,1.0,False,False,A++,https://www.pararius.com/apartment-for-rent/utrecht/5baa9b49/hebe-kohlbruggeweg,,,€3000,,,
+44,Apartment Twellosebeeklaan in Utrecht,3521 DR ,1525,,80,3,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/d176be81/twellosebeeklaan,,,,,,
+45,House Piet Heinstraat 9 in Utrecht,3582 BX ,1675,,70,2,1.0,,False,True,C,https://www.pararius.com/house-for-rent/utrecht/bd31e1fb/piet-heinstraat,50,,,,,
+46,Apartment Twellosebeeklaan in Utrecht,3521 DR ,1500,,81,3,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/90eb4902/twellosebeeklaan,,,,,,
+47,Apartment Obrechtstraat 4 in Utrecht,3572 EE ,1495,,70,2,1.0,1.0,False,True,B,https://www.pararius.com/apartment-for-rent/utrecht/5bb3b77a/obrechtstraat,,,€2990,,,
+48,Apartment Adriaan van Bergenstraat in Utrecht,3554 VE ,1600,,81,3,2.0,1.0,True,False,A,https://www.pararius.com/apartment-for-rent/utrecht/558fd8b4/adriaan-van-bergenstraat,,,,,,
+49,Apartment Wijde Begijnestraat in Utrecht,3512 AW ,1400,,60,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/f2a2f833/wijde-begijnestraat,,,€2800,,2,
+50,House Singelstraat in Utrecht,3513 BM ,1695,,70,2,1.0,1.0,False,False,D,https://www.pararius.com/house-for-rent/utrecht/96db807c/singelstraat,,,,,,
+51,Apartment Tafelbergdreef 192 in Utrecht,3564 AG ,1325,,84,4,3.0,1.0,True,False,F,https://www.pararius.com/apartment-for-rent/utrecht/43bba35a/tafelbergdreef,,,,,,Minimum of 12 months
+52,Apartment Weerdsingel O.Z. in Utrecht,3514 AG ,1500,,75,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/c19da239/weerdsingel-o-z,,,,,,
+53,Apartment Zadelstraat 5 in Utrecht,3511 LR ,1350,,62,2,1.0,1.0,False,False,F,https://www.pararius.com/apartment-for-rent/utrecht/689f51e3/zadelstraat,,,,,,
+54,Apartment Hekelsteeg 10 A in Utrecht,3511 AK ,1325,,51,2,1.0,1.0,False,True,D,https://www.pararius.com/apartment-for-rent/utrecht/cfa3e7bc/hekelsteeg,,,€1350,,,
+55,Apartment Smakkelaarsveld 23 in Utrecht,3511 EA ,1450,,50,2,1.0,1.0,True,False,C,https://www.pararius.com/apartment-for-rent/utrecht/2f0b764d/smakkelaarsveld,,,€1450,,,
+56,Apartment Van Weerden Poelmanlaan 2 in Utrecht,3527 KN ,1350,,92,3,2.0,1.0,True,False,G,https://www.pararius.com/apartment-for-rent/utrecht/143bfcc8/van-weerden-poelmanlaan,,,,,,Minimum of 12 months
+57,Apartment Burgemeester Reigerstraat in Utrecht,3581 KW ,1550,,58,2,1.0,1.0,True,False,,https://www.pararius.com/apartment-for-rent/utrecht/49495a3e/burgemeester-reigerstraat,,Temporary rental,€1745,€5100,2,
+58,Apartment Westerdijk 4 1702 in Utrecht,3513 EW ,1195,,44,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/48d7bb7a/westerdijk,,,,,,
+59,Apartment Pablo Picassostraat in Utrecht,3544 NX ,1295,45,88,3,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/e97b0e8d/pablo-picassostraat,,,,,,
+60,Apartment Loeff Berchmakerstraat 11 1 in Utrecht,3512 TC ,1050,,35,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/6d8a76f8/loeff-berchmakerstraat,,Unlimited period,,,,Minimum of 1 months
+61,Apartment Pieterskerkhof 23 B in Utrecht,3512 JS ,1675,100,66,2,1.0,1.0,False,False,A++,https://www.pararius.com/apartment-for-rent/utrecht/a6659750/pieterskerkhof,,,,,,
+62,Apartment Nachtegaalstraat in Utrecht,3581 AB ,1395,,65,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/0343c454/nachtegaalstraat,,,€3290,,,
+63,House Wijde Doelen in Utrecht,3512 XN ,1495,,84,3,2.0,1.0,False,False,E,https://www.pararius.com/house-for-rent/utrecht/603821fd/wijde-doelen,,Temporary rental,€2990,€4485,,
+64,Apartment Merelstraat in Utrecht,3514 CL ,1150,175,26,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/769db979/merelstraat,,,,,,
+65,House Morelstraat in Utrecht,3552 GM ,1495,,55,2,1.0,,False,True,F,https://www.pararius.com/house-for-rent/utrecht/19342a59/morelstraat,,,,,,
+66,Apartment Winklerlaan in Utrecht,3571 KE ,1350,,85,3,3.0,,True,False,A,https://www.pararius.com/apartment-for-rent/utrecht/56eddceb/winklerlaan,,,,,,
+67,Apartment Koningsweg in Utrecht,3582 GH ,1550,,80,3,2.0,,False,False,D,https://www.pararius.com/apartment-for-rent/utrecht/bfd93471/koningsweg,,Temporary rental,€1550,€4700,2,
+68,Apartment Londenstraat in Utrecht,3541 CB ,1600,,67,3,1.0,,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/31cf2fa5/londenstraat,,,,,,
+69,Apartment Aartsbisschop Romerostraat 133 in Utrecht,3573 AE ,1515,,101,3,2.0,1.0,True,False,C,https://www.pararius.com/apartment-for-rent/utrecht/743d4722/aartsbisschop-romerostraat,,,,,,
+70,Apartment Schoutenstraat in Utrecht,3512 GB ,1295,,60,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/7323072b/schoutenstraat,,,,,,
+71,House Jasmijnstraat in Utrecht,3551 SP ,1650,,83,6,2.0,1.0,False,True,F,https://www.pararius.com/house-for-rent/utrecht/ad88ac23/jasmijnstraat,5,,,,,
+72,Apartment Oudegracht in Utrecht,3511 AJ ,1100,,50,1,,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/3364a017/oudegracht,,,,,,
+73,Apartment Loeff Berchmakerstraat in Utrecht,3512 TD ,1095,,37,2,2.0,,True,False,A,https://www.pararius.com/apartment-for-rent/utrecht/8dee882a/loeff-berchmakerstraat,,,,,,
+74,Apartment Linnaeusstraat in Utrecht,3553 CE ,1075,200,38,1,,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/b31afdb1/linnaeusstraat,,,,,,
+75,Apartment Bakhuizen van den Brinkstraat in Utrecht,3532 GA ,1150,,35,2,1.0,1.0,False,True,C,https://www.pararius.com/apartment-for-rent/utrecht/a9b70717/bakhuizen-van-den-brinkstraat,,Unlimited period,€1150,€3450,2,
+76,Apartment Eschersingel in Utrecht,3544 ML ,1525,,100,3,2.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/59c50522/eschersingel,,Unlimited period,€1525,€4575,2,
+77,Apartment Pal Maleterstraat 11 in Utrecht,3573 PE ,1645,,112,4,3.0,1.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/14b620f4/pal-maleterstraat,,,,,,
+78,Apartment Beneluxlaan 134 in Utrecht,3527 HX ,1395,,75,3,2.0,1.0,True,False,F,https://www.pararius.com/apartment-for-rent/utrecht/2fd53209/beneluxlaan,,,€2790,,,
+79,Apartment Aartsbisschop Romerostraat 133 in Utrecht,3573 AE ,1515,,101,3,2.0,1.0,True,False,C,https://www.pararius.com/apartment-for-rent/utrecht/743d4722/aartsbisschop-romerostraat,,,,,,
+80,Apartment Pieterskerkhof 23 L in Utrecht,3512 JS ,1750,,63,2,1.0,1.0,False,False,A+++,https://www.pararius.com/apartment-for-rent/utrecht/70eb0c4b/pieterskerkhof,,In the city centre,1,,,
+81,Apartment Auriollaan in Utrecht,3527 ES ,1575,,75,4,3.0,1.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/44a0c9b1/auriollaan,,"On a quiet road
+ in a residential area",1,No,No,Working
+82,Studio Limapad in Utrecht,3584 SR ,520,,22,2,1.0,2.0,False,False,,https://www.pararius.com/studio-for-rent/utrecht/48156611/limapad,,,1,,,
+83,Apartment Maliestraat 1 5 in Utrecht,3581 SH ,1745,,60,2,1.0,1.0,False,True,,https://www.pararius.com/apartment-for-rent/utrecht/f97bb17d/maliestraat,,"in a residential area
+ Near public transportation",1,,,
+84,Apartment Zadelstraat 5 in Utrecht,3511 LR ,1350,,62,2,1.0,1.0,False,False,F,https://www.pararius.com/apartment-for-rent/utrecht/689f51e3/zadelstraat,,,,,,
+85,Apartment Adriaan van Bergenstraat in Utrecht,3554 VE ,1600,,81,3,2.0,1.0,True,False,A,https://www.pararius.com/apartment-for-rent/utrecht/558fd8b4/adriaan-van-bergenstraat,,,,,,
+86,Apartment Linnaeusstraat in Utrecht,3553 CE ,1075,,38,1,,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/b31afdb1/linnaeusstraat,,,1,,,
+87,Apartment Visschersplein 178 in Utrecht,3511 LX ,1495,,70,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/5010e514/visschersplein,,"In the city centre
+ Near public transportation
+ Near a school
+ Near a shopping centre",1,,,
+88,Apartment Van Hoornekade 135 in Utrecht,3554 AT ,1100,,90,4,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/3e92cf4e/van-hoornekade,,,1,,,
+89,Apartment Loeff Berchmakerstraat in Utrecht,3512 TD ,1095,,37,2,2.0,,True,False,A,https://www.pararius.com/apartment-for-rent/utrecht/8dee882a/loeff-berchmakerstraat,,,,,,
+90,Apartment Weerdsingel O.Z. in Utrecht,3514 AG ,1500,,75,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/c19da239/weerdsingel-o-z,,,,,,
+91,Apartment Schoutenstraat in Utrecht,3512 GB ,1295,,60,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/7323072b/schoutenstraat,,,,,,
+92,Apartment Beneluxlaan 134 in Utrecht,3527 HX ,1395,,75,3,2.0,1.0,True,False,F,https://www.pararius.com/apartment-for-rent/utrecht/2fd53209/beneluxlaan,,,1,,,
+93,Apartment Hekelsteeg 10 A in Utrecht,3511 AK ,1325,,51,2,1.0,1.0,False,True,D,https://www.pararius.com/apartment-for-rent/utrecht/cfa3e7bc/hekelsteeg,,In the city centre,1,,,
+94,Apartment Twijnstraat in Utrecht,3511 ZL ,1150,,31,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/40a9c93d/twijnstraat,,In the city centre,1,,No,
+95,Studio Bemuurde Weerd O.Z. 33 in Utrecht,3514 AP ,1500,,55,1,1.0,1.0,True,True,,https://www.pararius.com/studio-for-rent/utrecht/fc24df83/bemuurde-weerd-o-z,60,In the city centre,1,No,No,
+96,Apartment Monarchvlinderlaan in Utrecht,3544 DC ,1295,2,56,3,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/7fc58433/monarchvlinderlaan,,,2,No,No,Working
+97,Apartment Domplein in Utrecht,3512 JC ,975,,22,1,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/3303ef9a/domplein,,,1,,,
+98,Apartment Catharijnesingel in Utrecht,3511 GM ,1600,,32,2,1.0,,False,False,D,https://www.pararius.com/apartment-for-rent/utrecht/e307977c/catharijnesingel,,,1,,,
+99,Apartment Nieuwegracht in Utrecht,3512 LV ,1350,1,45,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/a15db453/nieuwegracht,,"By the water
+ In the city centre",1,,No,Working
+100,Apartment Loeff Berchmakerstraat 11 1 in Utrecht,3512 TC ,1050,,35,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/6d8a76f8/loeff-berchmakerstraat,,,,,,
+101,Apartment Van Weerden Poelmanlaan 2 in Utrecht,3527 KN ,1350,,92,3,2.0,1.0,True,False,G,https://www.pararius.com/apartment-for-rent/utrecht/143bfcc8/van-weerden-poelmanlaan,,,,,,
+102,Apartment Pal Maleterstraat 11 in Utrecht,3573 PE ,1645,,112,4,3.0,1.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/14b620f4/pal-maleterstraat,,,,,,
+103,Apartment Wijde Begijnestraat in Utrecht,3512 AW ,1400,2,60,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/f2a2f833/wijde-begijnestraat,,In the city centre,1,No,No,
+104,House Morelstraat in Utrecht,3552 GM ,1495,,55,2,1.0,,False,True,F,https://www.pararius.com/house-for-rent/utrecht/19342a59/morelstraat,,,,,,
+105,Apartment Tafelbergdreef 192 in Utrecht,3564 AG ,1325,,84,4,3.0,1.0,True,False,F,https://www.pararius.com/apartment-for-rent/utrecht/43bba35a/tafelbergdreef,,,,,,
+106,House Carel Willinkstraat in Utrecht,3544 MA ,1650,2,80,3,2.0,,False,True,A,https://www.pararius.com/house-for-rent/utrecht/8353dcca/carel-willinkstraat,,in a residential area,3,No,No,Working
+107,Apartment Hebe Kohlbruggeweg in Utrecht,3527 MD ,1500,,67,2,1.0,1.0,False,False,A++,https://www.pararius.com/apartment-for-rent/utrecht/5baa9b49/hebe-kohlbruggeweg,,,1,,,
+108,Apartment Pieterskerkhof 23 B in Utrecht,3512 JS ,1675,,66,2,1.0,1.0,False,False,A++,https://www.pararius.com/apartment-for-rent/utrecht/a6659750/pieterskerkhof,,In the city centre,1,,,
+109,Apartment Pal Maleterstraat 57 in Utrecht,3573 PG ,1675,,112,4,3.0,1.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/3b2e0368/pal-maleterstraat,,,,,,
+110,House Korenbloemstraat in Utrecht,3551 GM ,1750,2,85,4,2.0,2.0,False,True,F,https://www.pararius.com/house-for-rent/utrecht/1f1f3263/korenbloemstraat,16,"At a park
+ in a residential area",2,No,No,Working
+111,Apartment Peltlaan in Utrecht,3527 EB ,1300,,72,3,2.0,1.0,False,False,E,https://www.pararius.com/apartment-for-rent/utrecht/83bcf533/peltlaan,,in a residential area,1,No,No,
+112,Apartment Karel Doormanlaan in Utrecht,3572 NA ,1750,,100,3,2.0,1.0,True,False,E,https://www.pararius.com/apartment-for-rent/utrecht/bec8caaf/karel-doormanlaan,,in a residential area,1,No,No,Working
+113,Apartment Zambesidreef 139 in Utrecht,3564 CB ,1230,,88,3,2.0,1.0,True,False,A+,https://www.pararius.com/apartment-for-rent/utrecht/6d03c0f1/zambesidreef,,,,,,
+114,House Wijde Doelen in Utrecht,3512 XN ,1495,,84,3,2.0,1.0,False,False,E,https://www.pararius.com/house-for-rent/utrecht/603821fd/wijde-doelen,,"In the city centre
+ in a residential area",2,No,No,Working
+115,Apartment Koekoeksplein in Utrecht,3514 TT ,1515,2,45,3,2.0,1.0,False,True,B,https://www.pararius.com/apartment-for-rent/utrecht/b686dd1f/koekoeksplein,10,in a residential area,1,No,No,Working
+116,Apartment Kromme Nieuwegracht in Utrecht,3512 HC ,1695,,100,3,2.0,1.0,True,False,,https://www.pararius.com/apartment-for-rent/utrecht/36e48ff9/kromme-nieuwegracht,,"On a waterway
+ By the water
+ In the city centre",1,No,No,Working
+117,Studio Oudegracht in Utrecht,3511 AB ,730,1,24,1,1.0,1.0,False,True,,https://www.pararius.com/studio-for-rent/utrecht/26e0fcfb/oudegracht,,In the city centre,1,No,No,Working
+118,Apartment Trumanlaan in Utrecht,3527 BM ,1530,,75,3,2.0,2.0,True,False,B,https://www.pararius.com/apartment-for-rent/utrecht/32db0281/trumanlaan,,in a residential area,1,,,
+119,Apartment Vleutenseweg in Utrecht,3532 HL ,1650,,47,2,1.0,,True,True,,https://www.pararius.com/apartment-for-rent/utrecht/f8fe35e2/vleutenseweg,,"In the city centre
+ Unobstructed view",,,No,
+120,Apartment Nachtegaalstraat in Utrecht,3581 AB ,1395,,65,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/0343c454/nachtegaalstraat,,Near public transportation,1,,,
+121,Apartment Twellosebeeklaan in Utrecht,3521 DR ,1500,,81,3,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/90eb4902/twellosebeeklaan,,,1,,,
+122,Apartment Bemuurde Weerd O.Z. 50 in Utrecht,3514 AS ,1295,,53,2,1.0,1.0,False,False,D,https://www.pararius.com/apartment-for-rent/utrecht/ce7bd98e/bemuurde-weerd-o-z,,,,,,
+123,Apartment Van Sijpesteijnkade in Utrecht,3521 AH ,950,,43,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/bb76b004/van-sijpesteijnkade,,,1,,,
+124,Apartment Pal Maleterstraat 47 in Utrecht,3573 PG ,1325,,76,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/3b1d1c8e/pal-maleterstraat,,,,,,
+125,Apartment Burgemeester Reigerstraat in Utrecht,3581 KW ,1550,2,58,2,1.0,1.0,True,False,,https://www.pararius.com/apartment-for-rent/utrecht/49495a3e/burgemeester-reigerstraat,,In the city centre,1,No,No,Working
+126,Apartment Smakkelaarsveld 23 in Utrecht,3511 EA ,1450,,50,2,1.0,1.0,True,False,C,https://www.pararius.com/apartment-for-rent/utrecht/2f0b764d/smakkelaarsveld,,,1,,,
+127,Apartment Bakhuizen van den Brinkstraat in Utrecht,3532 GA ,1150,2,35,2,1.0,1.0,False,True,C,https://www.pararius.com/apartment-for-rent/utrecht/a9b70717/bakhuizen-van-den-brinkstraat,,in a residential area,1,No,No,Working
+128,House Abstederdijk in Utrecht,3582 BE ,1600,,87,4,2.0,2.0,False,True,,https://www.pararius.com/house-for-rent/utrecht/405afd42/abstederdijk,45,"On a quiet road
+ in a residential area",3,,,
+129,Apartment Oudegracht in Utrecht,3511 AJ ,1100,,50,1,,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/3364a017/oudegracht,,,,,,
+130,Apartment Pablo Picassostraat in Utrecht,3544 NX ,1295,,88,3,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/e97b0e8d/pablo-picassostraat,,,1,,,
+131,House Piet Heinstraat 9 in Utrecht,3582 BX ,1675,,70,2,1.0,,False,True,C,https://www.pararius.com/house-for-rent/utrecht/bd31e1fb/piet-heinstraat,50,"On a quiet road
+ in a residential area
+ Unobstructed view",2,,,
+132,Apartment Gruttersdijk 27 M in Utrecht,3514 BH ,1400,,51,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/a03a96cc/gruttersdijk,,,,,,
+133,Apartment Jutfaseweg 96 in Utrecht,3522 HH ,700,,20,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/32222706/jutfaseweg,,,,,,
+134,Apartment Eschersingel in Utrecht,3544 ML ,1525,2,100,3,2.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/59c50522/eschersingel,,in a residential area,1,No,No,Working
+135,Apartment Merelstraat in Utrecht,3514 CL ,1150,,26,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/769db979/merelstraat,,,1,,,
+136,Apartment Breedstraat in Utrecht,3512 TX ,1400,,48,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/ab97c227/breedstraat,,,1,,,
+137,Apartment Gruttersdijk 28 H in Utrecht,3514 BH ,1500,,60,2,1.0,1.0,True,False,,https://www.pararius.com/apartment-for-rent/utrecht/00ff528d/gruttersdijk,,,,,,
+138,Apartment Wisselstraat in Utrecht,3551 WG ,1600,,47,2,1.0,,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/66348f0e/wisselstraat,,,1,,,
+139,Apartment Twellosebeeklaan in Utrecht,3521 DR ,1525,,80,3,2.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/d176be81/twellosebeeklaan,,,1,,,
+140,Apartment Londenstraat in Utrecht,3541 CB ,1600,,67,3,1.0,,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/31cf2fa5/londenstraat,,In the city centre,1,,,
+141,Studio Vleutenseweg in Utrecht,3532 HH ,1295,1,20,1,,,False,False,,https://www.pararius.com/studio-for-rent/utrecht/a02ba2e8/vleutenseweg,,"In the city centre
+ in a residential area",1,No,No,
+142,Studio Berlijnplein in Utrecht,3541 CM ,633,2,30,1,,1.0,False,True,,https://www.pararius.com/studio-for-rent/utrecht/2c891cec/berlijnplein,,in a residential area,1,No,No,Working
+143,Apartment Kromme Nieuwegracht in Utrecht,3512 HL ,1650,,60,2,1.0,,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/df2a0d25/kromme-nieuwegracht,,"On a quiet road
+ On a waterway
+ In the city centre
+ Unobstructed view",1,No,No,Working
+144,House Jasmijnstraat in Utrecht,3551 SP ,1650,,83,6,2.0,1.0,False,True,F,https://www.pararius.com/house-for-rent/utrecht/ad88ac23/jasmijnstraat,5,In the city centre,2,,,
+145,House Bollenhofsestraat in Utrecht,3572 VH ,1500,,72,3,2.0,1.0,False,False,,https://www.pararius.com/house-for-rent/utrecht/49579329/bollenhofsestraat,,"On a quiet road
+ in a residential area",3,,,
+146,Apartment Winklerlaan in Utrecht,3571 KE ,1350,,85,3,3.0,,True,False,A,https://www.pararius.com/apartment-for-rent/utrecht/56eddceb/winklerlaan,,,,,,
+147,Apartment Obrechtstraat 4 in Utrecht,3572 EE ,1495,,70,2,1.0,1.0,False,True,B,https://www.pararius.com/apartment-for-rent/utrecht/5bb3b77a/obrechtstraat,,"in a residential area
+ Near public transportation",1,,,
+148,Apartment Europaplein 859 in Utrecht,3526 WS ,1150,,45,2,1.0,1.0,False,False,A,https://www.pararius.com/apartment-for-rent/utrecht/432542fa/europaplein,,,,,,
+149,House Singelstraat in Utrecht,3513 BM ,1695,,70,2,1.0,1.0,False,False,D,https://www.pararius.com/house-for-rent/utrecht/96db807c/singelstraat,,,,,,
+150,Apartment Koningslaan in Utrecht,3583 GB ,1250,,50,2,1.0,1.0,False,False,,https://www.pararius.com/apartment-for-rent/utrecht/aef46284/koningslaan,,,,,,
+151,Apartment Bloemstraat in Utrecht,3581 WE ,1295,,45,2,1.0,1.0,False,True,D,https://www.pararius.com/apartment-for-rent/utrecht/dff215e0/bloemstraat,12,,,,,
+152,Apartment 2e Spechtstraat in Utrecht,3514 TW ,1625,,110,3,2.0,1.0,True,True,,https://www.pararius.com/apartment-for-rent/utrecht/a17fb00d/2e-spechtstraat,12,"On a quiet road
+ In the city centre",2,,,
