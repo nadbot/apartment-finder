@@ -14,7 +14,8 @@ def preprocess_funda(df=None, save=False):
             df[column] = None
     df.postcode = df.postcode.str.replace(' Utrecht', '')  # Remove "Utrecht" from postcode
     # df['rental_price'] = df.Huurprijs.str.extract(r'([0-9.]+)')  # only get the first price
-    costs = df.Huurprijs.str.extractall(r'([0-9.,]+)')  # will return up to 2 matches, first is rental price, second servicecosts
+    costs = df.Huurprijs.str.extractall(
+        r'([0-9.,]+)')  # will return up to 2 matches, first is rental price, second servicecosts
     rental_price = costs[costs.index.get_level_values(1) == 0]
     # TODO find better way to set these?
     df.loc[df.index.isin(rental_price.index.get_level_values(0)), 'rental_price'] = rental_price.values
@@ -24,7 +25,7 @@ def preprocess_funda(df=None, save=False):
     df['service_costs'] = df['service_costs'].str.replace(r'[.,]', '')  # convert the comma value to .
     df['living_area'] = df.Wonen.str.replace(' m²', '')
     df['living_area'] = df['living_area'].where(df['living_area'] == df['living_area'],
-                                                  df['Oppervlakte'].str.replace(' m² wonen', ''))
+                                                df['Oppervlakte'].str.replace(' m² wonen', ''))
     df['Inhoud'] = df.Inhoud.str.replace(' m²', '')
     df[['rooms', 'bedrooms']] = df['Aantal kamers'].str.split('(', expand=True)
     df['rooms'] = df['rooms'].str.extract(r'([0-9.,]+)')
@@ -32,7 +33,7 @@ def preprocess_funda(df=None, save=False):
     df['badkamer'] = df['Aantal badkamers'].str.extract(r'([0-9.,]+)')
     if df['Aantal badkamers'].str.contains('en').any():
         df[['badkamer', 'toilet']] = df['Aantal badkamers'].str.split('en', expand=True)
-    # count separate toilet as extra bathroom, pretty sure pararius does it as well
+        # count separate toilet as extra bathroom, pretty sure pararius does it as well
         df['bathrooms'] = df['badkamer'].str.extract(r'([0-9.,]+)').astype(float) + df['toilet'].str.extract(
             r'([0-9.,]+)').astype(float)
     else:
@@ -56,6 +57,7 @@ def preprocess_funda(df=None, save=False):
     if save:
         df.to_csv('preprocessed_funda.csv')
     return df
+
 
 def preprocess_pararius(df=None, save=False):
     if df is None:
@@ -82,7 +84,7 @@ def preprocess_pararius(df=None, save=False):
     df['garden'] = 'Present' in df['Garden']
     df['garden_size'] = df['Garden'].str.extract(r'([0-9.,]+)')
     df['Deposit'] = df['Deposit'].str.replace(r'[.,]', '')  # convert the comma value to .
-    df['Income requirement'] = df['Income requirement'].str.replace(r'[.,]', '')   # convert the comma value to .
+    df['Income requirement'] = df['Income requirement'].str.replace(r'[.,]', '')  # convert the comma value to .
     if save:
         df.to_csv('preprocessed_all_data_pararius.csv')
     keep_cols = ['address', 'postcode', 'rental_price', 'service_costs', 'living_area', 'rooms', 'bedrooms',
@@ -94,6 +96,7 @@ def preprocess_pararius(df=None, save=False):
     if save:
         df.to_csv('preprocessed_pararius.csv')
     return df
+
 
 def preprocess_huurwoningen(df=None, save=False):
     if df is None:
@@ -132,6 +135,7 @@ def preprocess_huurwoningen(df=None, save=False):
         df.to_csv('preprocessed_huurwoningen.csv')
     return df
 
+
 def preprocess_huurstunt(df=None, save=False):
     if df is None:
         df = pd.read_csv('data/apartment_data_huurstunt.csv')
@@ -151,7 +155,8 @@ def preprocess_huurstunt(df=None, save=False):
     df['rooms'] = df['Aantal kamers:'].str.extract(r'([0-9.,]+)')
     df['bedrooms'] = df['Aantal slaapkamers:']
     df['bathrooms'] = df['Aantal badkamers:']
-    df['energielabel'] = df['Energielabel:'].where(df['Energielabel:'] == df['Energielabel:'], df['Voorlopig energielabel:'])
+    df['energielabel'] = df['Energielabel:'].where(df['Energielabel:'] == df['Energielabel:'],
+                                                   df['Voorlopig energielabel:'])
     df['Maximum number of residents'] = df['Aantal personen:']
     df['balcony'] = df['Balkon:'] == df['Balkon:']  # any value is ok
     # df[['Garden', 'garden_size']] = df['Tuin:'].str.split(' \(', expand=True)
@@ -171,6 +176,7 @@ def preprocess_huurstunt(df=None, save=False):
     if save:
         df.to_csv('preprocessed_huurstunt.csv')
     return df
+
 
 def merge_apartments(df_funda, df_pararius, df_huurwoningen, df_huurstunt, save=False):
     if df_funda is None:
@@ -217,6 +223,7 @@ def get_average_data(df_data, save=False):
         averages.to_csv('data/avg_values.csv')
     return averages
 
+
 def preprocess_all(save=False):
     df_funda = preprocess_funda(save=save)
     df_pararius = preprocess_pararius(save=save)
@@ -225,6 +232,7 @@ def preprocess_all(save=False):
     df_all = merge_apartments(df_funda, df_pararius, df_huurwoningen, df_huurstunt, save=save)
     df_averages = get_average_data(df_all, save=save)
     return df_averages
+
 
 if __name__ == '__main__':
     preprocess_all()

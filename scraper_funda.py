@@ -1,10 +1,10 @@
 import json
 import os.path
 
-from tqdm import tqdm
-from bs4 import BeautifulSoup
 import pandas as pd
 import requests
+from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 headers_funda = {
     'content-type': 'application/x-www-form-urlencoded',
@@ -119,6 +119,7 @@ def scrape_funda(rerun_all=False):
     print(f'Updating {len(apartments_to_scrape)} entries')
     df = get_all_apartment_data_funda(apartments_to_scrape)
     return df
+
 
 if __name__ == '__main__':
     scrape_funda(rerun_all=False)

@@ -23,6 +23,7 @@ energyclasses['F'] = 9
 energyclasses['G'] = 10
 energyclasses_reversed = {a[1]: a[0] for a in energyclasses.items()}
 
+
 def pipeline(threshold_good_apartment=2):
     rerun_all = save = False
     df_funda = scrape_funda(rerun_all)
@@ -32,19 +33,23 @@ def pipeline(threshold_good_apartment=2):
     all_changed = []
     if df_funda is not None:
         df_funda = preprocess_funda(df_funda, save=save)
-        df_funda = df_funda.astype(dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
+        df_funda = df_funda.astype(
+            dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
         all_changed.append(df_funda)
     if df_pararius is not None:
         df_pararius = preprocess_pararius(df_pararius, save=save)
-        df_pararius = df_pararius.astype(dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
+        df_pararius = df_pararius.astype(
+            dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
         all_changed.append(df_pararius)
     if df_huurwoningen is not None:
         df_huurwoningen = preprocess_huurwoningen(df_huurwoningen, save=save)
-        df_huurwoningen = df_huurwoningen.astype(dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
+        df_huurwoningen = df_huurwoningen.astype(
+            dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
         all_changed.append(df_huurwoningen)
     if df_huurstunt is not None:
         df_huurstunt = preprocess_huurstunt(df_huurstunt, save=save)
-        df_huurstunt = df_huurstunt.astype(dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
+        df_huurstunt = df_huurstunt.astype(
+            dict.fromkeys(['rental_price', 'living_area', 'rooms', 'bedrooms', 'bathrooms'], 'float'))
         all_changed.append(df_huurstunt)
     if len(all_changed) == 0:
         return
@@ -55,6 +60,7 @@ def pipeline(threshold_good_apartment=2):
     df_all_apartments = pd.read_csv('data/all_apartments_processed.csv')
     df_best_sorted = find_best_items(df_all, df_all_apartments, threshold_good_apartment=threshold_good_apartment)
     return df_best_sorted
+
 
 if __name__ == '__main__':
     df = pipeline()

@@ -1,56 +1,56 @@
 import json
 import os.path
 
-from tqdm import tqdm
-from bs4 import BeautifulSoup
 import pandas as pd
 import requests
+from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 headers = {
-  'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-  'accept-encoding': 'gzip, deflate',
-  'accept-language': 'en-US,en;q=0.9,de-DE;q=0.8,de;q=0.7',
-  'cache-control': 'max-age=0',
-  'referer': 'https://www.huurwoningen.nl/content/expats/',
-  'sec-ch-ua': '"Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"',
-  'sec-ch-ua-mobile': '?0',
-  'sec-ch-ua-platform': '"Windows"',
-  'sec-fetch-dest': 'document',
-  'sec-fetch-mode': 'navigate',
-  'sec-fetch-site': 'none',
-  'sec-fetch-user': '?1',
-  'upgrade-insecure-requests': '1',
-  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept-encoding': 'gzip, deflate',
+    'accept-language': 'en-US,en;q=0.9,de-DE;q=0.8,de;q=0.7',
+    'cache-control': 'max-age=0',
+    'referer': 'https://www.huurwoningen.nl/content/expats/',
+    'sec-ch-ua': '"Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'none',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
 }
 HUURSTUNT_BASE_URL = 'https://www.huurstunt.nl'
 
 
 def post_data(url, page, data_format=None):
     payload = json.dumps({
-      "force": False,
-      "location": {
-        "location": "Utrecht",
-        "distance": None,
-        "suggestType": "city",
-        "suggestId": 439,
-        "neighborhoodSlug": None,
-        "streetSlug": None,
-        "districtSlug": None
-      },
-      "price": {
-        "from": 0,
-        "till": 1750
-      },
-      "properties": {
-        "rooms": 0,
-        "livingArea": 0,
-        "deliveryLevel": None,
-        "rentalType": None,
-        "outside": []
-      },
-      "page": page,
-      "sorting": "datum-af",
-      "resultsPerPage": 21
+        "force": False,
+        "location": {
+            "location": "Utrecht",
+            "distance": None,
+            "suggestType": "city",
+            "suggestId": 439,
+            "neighborhoodSlug": None,
+            "streetSlug": None,
+            "districtSlug": None
+        },
+        "price": {
+            "from": 0,
+            "till": 1750
+        },
+        "properties": {
+            "rooms": 0,
+            "livingArea": 0,
+            "deliveryLevel": None,
+            "rentalType": None,
+            "outside": []
+        },
+        "page": page,
+        "sorting": "datum-af",
+        "resultsPerPage": 21
     })
     res = requests.post(url, headers=headers, data=payload)
     if res.status_code > 299:
@@ -61,6 +61,7 @@ def post_data(url, page, data_format=None):
         return json.loads(res.text)
     return BeautifulSoup(res.text, 'html.parser')
 
+
 def get_data(url, data_format=None):
     payload = {}
     res = requests.get(url, headers=headers, data=payload)
@@ -70,11 +71,12 @@ def get_data(url, data_format=None):
         return json.loads(res.text)
     return BeautifulSoup(res.text, 'html.parser')
 
+
 def get_all_apartments_huurstunt():
     url = HUURSTUNT_BASE_URL + '/public/api/search'
     data = post_data(url, 1, 'json')
     legacyURL_end = '/huren/utrecht/0-1750/'
-    all_apartments = [HUURSTUNT_BASE_URL+x['url'] for x in data['data']['rentals']]
+    all_apartments = [HUURSTUNT_BASE_URL + x['url'] for x in data['data']['rentals']]
 
     last_page = True
     # if wrong page number, the system will return the first page
@@ -84,7 +86,7 @@ def get_all_apartments_huurstunt():
         legacyURL = data['data']['legacyURL']
         if legacyURL == legacyURL_end:
             break
-        all_apartments.extend([HUURSTUNT_BASE_URL+x['url'] for x in data['data']['rentals']])
+        all_apartments.extend([HUURSTUNT_BASE_URL + x['url'] for x in data['data']['rentals']])
         index += 1
 
     with open('data/all_links_huurstunt.txt', 'w') as f:
@@ -97,7 +99,8 @@ def get_apartment_details(url, data):
                  'postcode': data.find('p', {'class': 'title__sub'}).text.strip()
                  }
     # squaremeter = data.find('span', {'class': 'kenmerken-highlighted__value fd-text--nowrap'}).text.strip()
-    datasheets = data.find_all('div', {'class': 'rental-characteristics-long'})[0].find_all('div', {'class': ['info-wrapper__block', 'info-wrapper__block-extra']})
+    datasheets = data.find_all('div', {'class': 'rental-characteristics-long'})[0].find_all('div', {
+        'class': ['info-wrapper__block', 'info-wrapper__block-extra']})
     for datasheet in datasheets:
         # key = datasheet.find_all('div', {'class': 'info-wrapper__key'})
         # value = datasheet.find_all('div', {'class': 'info-wrapper__value'})
@@ -105,9 +108,9 @@ def get_apartment_details(url, data):
         s = [i.text.strip() for i in a]
         for index in range(0, len(a) - 1, 2):
             key = a[index].text.strip()
-            value = a[index+1].text.strip()
+            value = a[index + 1].text.strip()
             if 'Balkon' in key:
-                value = a[index+1].p.i.get('title')
+                value = a[index + 1].p.i.get('title')
             data_dict[key] = value
     data_dict['url'] = url
     return data_dict
@@ -147,11 +150,13 @@ def update_apartments(rerun_all=False):
     missing_apartments = all_apartments_now - all_apartments_old
     return missing_apartments
 
+
 def scrape_huurstunt(rerun_all=False):
     apartments_to_scrape = update_apartments(rerun_all)
     print(f'Updating {len(apartments_to_scrape)} entries')
     df = get_all_apartment_data_huurstunt(apartments_to_scrape)
     return df
+
 
 if __name__ == '__main__':
     scrape_huurstunt(False)

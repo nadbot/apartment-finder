@@ -2,12 +2,11 @@ from collections import defaultdict
 
 import geopandas as gpd
 # https://public.opendatasoft.com/explore/dataset/georef-netherlands-postcode-pc4/export/?location=8,52.1564,5.29337&basemap=jawg.light
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import folium
-import mapclassify
-import matplotlib
+
+# import folium
+# import mapclassify
+# import matplotlib
 energyclasses = defaultdict(int)
 energyclasses['A+++'] = 1
 energyclasses['A++'] = 2

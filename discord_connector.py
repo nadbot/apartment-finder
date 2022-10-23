@@ -5,8 +5,6 @@ import discord
 import pandas as pd
 
 import credentials as cred
-from tabulate import tabulate
-
 from pipeline import pipeline
 
 intents = discord.Intents(messages=True)
@@ -17,12 +15,17 @@ starttime = datetime.utcnow()
 background_task_time = 60
 threshold_good_apartment = 2
 
+
 @client.event
 async def on_ready():
     print(f'{client.user} has connected to Discord!')
 
+
 best_results_df = pd.read_csv('data/best_results.csv')
-best_results_df = best_results_df.loc[:, ['postcode_beginning', 'rental_price', 'living_area', 'living_area_stddev_ratio', 'price_pm', 'price_pm_stddev_ratio', 'rooms', 'energielabel', 'energie_class_stddev_ratio', 'url']]
+best_results_df = best_results_df.loc[:,
+                  ['postcode_beginning', 'rental_price', 'living_area', 'living_area_stddev_ratio', 'price_pm',
+                   'price_pm_stddev_ratio', 'rooms', 'energielabel', 'energie_class_stddev_ratio', 'url']]
+
 
 @client.event
 async def on_message(message):
@@ -48,10 +51,10 @@ async def on_message(message):
         uptime = runtime()
         if running:
             remaining = time_left()
-            status = "Currently observing changes. Use !stop to stop this."+'\n'+remaining
+            status = "Currently observing changes. Use !stop to stop this." + '\n' + remaining
         else:
             status = "Currently not observing any changes. Use !find to observe them."
-        await message.channel.send(uptime+"\n"+status)
+        await message.channel.send(uptime + "\n" + status)
     if message.content.startswith('!find'):
         # item will be observed, bot will send message once grade becomes available, checking every few minutes
         await channel.send("Finding new apartments")
@@ -71,15 +74,18 @@ async def on_message(message):
         threshold = message.content.split(' ')[1]
         print(threshold)
         threshold_good_apartment = float(threshold)
-        await message.channel.send(f"Successfully updated the threshold for accepting an apartment as good to {threshold_good_apartment}")
+        await message.channel.send(
+            f"Successfully updated the threshold for accepting an apartment as good to {threshold_good_apartment}")
 
 
 async def send_new_apartments(channel, df):
     for index, eg in df.head().iterrows():
         embed = discord.Embed(title=f"Apartment in {eg['postcode_beginning']} for {eg['rental_price']}€", url=eg.url)
         embed.add_field(name="€/m²", value=f"{eg['price_pm']:.2f} ({eg['price_pm_stddev_ratio']:+.2f})", inline=True)
-        embed.add_field(name="m²", value=f"{eg['living_area']:.2f} ({eg['living_area_stddev_ratio']:+.2f})", inline=True)
-        embed.add_field(name="Energy", value=f"{eg['energielabel']} ({eg['energie_class_stddev_ratio']:+.2f})", inline=True)
+        embed.add_field(name="m²", value=f"{eg['living_area']:.2f} ({eg['living_area_stddev_ratio']:+.2f})",
+                        inline=True)
+        embed.add_field(name="Energy", value=f"{eg['energielabel']} ({eg['energie_class_stddev_ratio']:+.2f})",
+                        inline=True)
         await channel.send(embed=embed)
 
 
@@ -93,7 +99,7 @@ async def my_background_task(channel, time=180):
     while running:
         # TODO run pipeline in different thread to not block discord input
         df = pipeline(threshold_good_apartment)
-            # check for updates
+        # check for updates
         if df is not None and not df.empty:
             # send_new_apartments(channel, df)
             await send_new_apartments(channel, df)
@@ -114,6 +120,7 @@ def runtime():
     hours, minutes = divmod(minutes, 60)
     return "Running for {}d {}h {}m {}s".format(elapsed.days, hours, minutes, seconds)
 
+
 def time_left():
     now = datetime.utcnow()
     elapsed = next_observation - now
@@ -122,6 +129,7 @@ def time_left():
     hours, minutes = divmod(minutes, 60)
     return "Next observation will be done in {}d {}h {}m {}s".format(elapsed.days, hours, minutes, seconds)
 
+
 def main():
     """
     Initial method once bot starts. Will login to blackboard and retrieve list of courses.
@@ -129,6 +137,7 @@ def main():
     :return: Nothing
     """
     client.run(cred.TOKEN)
+
 
 if __name__ == '__main__':
     main()
