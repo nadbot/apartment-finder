@@ -1,0 +1,342 @@
+,address,postcode,Rental price,Offered since,Status,Available,Interior,Living area,Type of house,Type of construction,Number of rooms,Number of bedrooms,Number of bathrooms,Facilities,Balcony,Garden,Energy rating,url,Upkeep,Volume,Year of construction,Number of floors,Present,Rental agreement,Deposit,Location,Insulation,Heating,Hot water,Shed/Storeroom,Type of parking,Smoking allowed,Pets allowed,Target audience,Income requirement,Maximum number of residents,Duration,Specifics,Service costs,Plot area,Garden description,Description,Central heating boiler,region,rental_price,service_costs,living_area,rooms,bedrooms,bathrooms,energielabel,balcony,garden_size,garden
+0,Apartment Van Heuven Goedhartplein 653 in Utrecht,3527 DZ ,"€1,025 per month",3 weeks,For rent,From 01-11-2022,Upholstered,54 m²,Gallery flat,Existing building,2,1.0,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/9e510513/van-heuven-goedhartplein,,,,,,,,,,,,,,,,,,,,,,,,,,Kanaleneiland-Noord,1025,,54,2,1.0,1.0,A,False,,False
+1,Apartment Van Sijpesteijnkade in Utrecht,3521 AH ,€950 per month,3 months,For rent,Immediately,,43 m²,Gallery flat,New development,2,1.0,1.0,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/bb76b004/van-sijpesteijnkade,Excellent,112 m³,2022,1,No,,,,,,,,,,,,,,,,,,,,,Hoog-Catharijne NS en Jaarbeurs,950,,43,2,1.0,1.0,,False,,False
+2,House Carel Willinkstraat in Utrecht,3544 MA ,"€1,650 per month",10-10-2022,For rent,From 15-11-2022,Upholstered,80 m²,"Mid-terrace house, Family home",Existing building,3,2.0,,"Mechanical ventilation
+ Toilet
+ Laundry room",,Present,A,https://www.pararius.com/house-for-rent/utrecht/8353dcca/carel-willinkstraat,Good,298 m³,2005,3,Yes,Temporary rental,€3300,in a residential area,Fully insulated,District heating,District heating,Present,Public,No,No,Working,€4950,2,,,,,,,,Het Zand-West,1650,,80,3,2.0,,A,False,,True
+3,Apartment Jutfaseweg 96 in Utrecht,3522 HH ,€700 per month,09-10-2022,For rent,Immediately,Upholstered or furnished,20 m²,Apartment,Existing building,2,1.0,1.0,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/32222706/jutfaseweg,,,,,No,Unlimited period,,,,,,Not present,,,,,,,Minimum of 1 months,,,,,,,Rivierenwijk,700,,20,2,1.0,1.0,,False,,False
+4,Apartment Pal Maleterstraat 57 in Utrecht,3573 PG ,"€1,675 per month",6 weeks,For rent,Immediately,Upholstered,112 m²,Gallery flat,Existing building,4,3.0,1.0,Lift,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/3b2e0368/pal-maleterstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1675,,112,4,3.0,1.0,B,True,,False
+5,Apartment Koningslaan in Utrecht,3583 GB ,"€1,250 per month
+
+Includes: Service costs",12-10-2022,For rent,From 01-12-2022,Upholstered,50 m²,"Gallery flat, Apartment",Existing building,2,1.0,1.0,"Shower
+ Toilet",,,,https://www.pararius.com/apartment-for-rent/utrecht/aef46284/koningslaan,,,,,No,,,,,,,,,,,,,,,,,,,,,Wilhelminapark en omgeving,1250,,50,2,1.0,1.0,,False,,False
+6,Apartment Van Hoornekade 135 in Utrecht,3554 AT ,"€1,100 per month",21-10-2022,For rent,In consultation,,90 m²,Upstairs apartment,Existing building,4,2.0,,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/3e92cf4e/van-hoornekade,Good,225 m³,1931,1,No,,,,,,,,Public,,,,,,,,,,,,,Geuzenwijk,1100,,90,4,2.0,,,False,,False
+7,Apartment Visschersplein 178 in Utrecht,3511 LX ,"€1,495 per month",2 weeks,Under offer,From 01-11-2022,Upholstered,70 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,,Not present,,A,https://www.pararius.com/apartment-for-rent/utrecht/5010e514/visschersplein,,195 m³,Before 1906,1,,,€2990,"In the city centre
+ Near public transportation
+ Near a school
+ Near a shopping centre",,,District heating,,,,,,,,,Monumental building,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1495,,70,2,1.0,1.0,A,False,,False
+8,Studio Berlijnplein in Utrecht,3541 CM ,"€633 per month
+
+Excludes: Service costs",3+ months,For rent,Immediately,Upholstered,30 m²,"Studio, Apartment",New development,1,,1.0,"Lift
+ Shower
+ Toilet",,Present,,https://www.pararius.com/studio-for-rent/utrecht/2c891cec/berlijnplein,,,2022,1,No,,€1500,in a residential area,,"District heating, Partial floor heating",District heating,Not present,Garage,No,No,Working,€2000,2,,,€327,,,,,Leidsche Rijn-Centrum,633,327,30,1,,1.0,,False,,True
+9,Apartment 2e Spechtstraat in Utrecht,3514 TW ,"€1,625 per month",19-10-2022,For rent,From 01-12-2022,Upholstered,110 m²,"Double ground-floor flat, Main floor",Existing building,3,2.0,1.0,"Bath
+ Shower
+ Toilet",Present,Present,,https://www.pararius.com/apartment-for-rent/utrecht/a17fb00d/2e-spechtstraat,,330 m³,1904,2,,,€1625,"On a quiet road
+ In the city centre",,,,,,,,,,,,,,110 m²,achtertuin,,,Vogelenbuurt,1625,,110,3,2.0,1.0,,True,12,True
+10,Apartment Trumanlaan in Utrecht,3527 BM ,"€1,530 per month
+
+Includes: Service costs",7 weeks,For rent,Immediately,Furnished,75 m²,"Upstairs apartment, Apartment",Existing building,3,2.0,2.0,Laundry room,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/32db0281/trumanlaan,,,1960,1,No,Unlimited period,€2000,in a residential area,,,,Not present,Public,,,,,,,,,,,,,Kanaleneiland-Noord,1530,,75,3,2.0,2.0,B,True,,False
+11,Apartment Karel Doormanlaan in Utrecht,3572 NA ,"€1,750 per month",19-10-2022,For rent,From 01-12-2022,Furnished,100 m²,"Upstairs apartment, Apartment",Existing building,3,2.0,1.0,"Lift
+ Toilet",Present,Not present,E,https://www.pararius.com/apartment-for-rent/utrecht/bec8caaf/karel-doormanlaan,Good,250 m³,1965,1,No,Unlimited period,€3500,in a residential area,,,,Present,,No,No,Working,€5250,,,,,,,,,"Huizingalaan, K. Doormanlaan en omgeving",1750,,100,3,2.0,1.0,E,True,,False
+12,Apartment Peltlaan in Utrecht,3527 EB ,"€1,300 per month",2 weeks,For rent,Immediately,Furnished,72 m²,"Upstairs apartment, Apartment",Existing building,3,2.0,1.0,,,Not present,E,https://www.pararius.com/apartment-for-rent/utrecht/83bcf533/peltlaan,Good,,1959,1,No,Temporary rental,€3500,in a residential area,,,,Not present,Public,No,No,,,,,,,,,,,Kanaleneiland-Noord,1300,,72,3,2.0,1.0,E,False,,False
+13,Studio Oudegracht in Utrecht,3511 AB ,€730 per month,20-10-2022,For rent,Immediately,Furnished,24 m²,Studio,Existing building,1,1.0,1.0,,,Present,,https://www.pararius.com/studio-for-rent/utrecht/26e0fcfb/oudegracht,Excellent,75 m³,1818,1,No,Temporary rental,€1500,In the city centre,,,,Not present,,No,No,Working,,1,,Monumental building,€315,,,,,Wijk C,730,315,24,1,1.0,1.0,,False,,True
+14,Apartment Pal Maleterstraat 47 in Utrecht,3573 PG ,"€1,325 per month",2 months,For rent,Immediately,Shell,76 m²,Gallery flat,Existing building,2,1.0,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/3b1d1c8e/pal-maleterstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1325,,76,2,1.0,1.0,A,False,,False
+15,Apartment Bemuurde Weerd O.Z. 50 in Utrecht,3514 AS ,"€1,295 per month",8 weeks,For rent,Immediately,Upholstered,53 m²,Gallery flat,Existing building,2,1.0,1.0,,Not present,Not present,D,https://www.pararius.com/apartment-for-rent/utrecht/ce7bd98e/bemuurde-weerd-o-z,,,,,,,,,,,,,,,,,,,,,,,,,,Lauwerecht,1295,,53,2,1.0,1.0,D,False,,False
+16,Apartment Van Heuven Goedhartplein 718 in Utrecht,3527 DZ ,"€1,105 per month",13-10-2022,For rent,From 01-11-2022,Upholstered,54 m²,Gallery flat,Existing building,2,1.0,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/8a2351ec/van-heuven-goedhartplein,,,,,,,,,,,,,,,,,,,,,,,,,,Kanaleneiland-Noord,1105,,54,2,1.0,1.0,A,False,,False
+17,Apartment Europaplein 859 in Utrecht,3526 WS ,"€1,150 per month",11-10-2022,For rent,From 14-11-2022,Shell,45 m²,Gallery flat,Existing building,2,1.0,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/432542fa/europaplein,,,2007,,Yes,,,,,,,,,,,,,,Minimum of 12 months,,,,,,,Transwijk-Zuid,1150,,45,2,1.0,1.0,A,False,,False
+18,Apartment Gruttersdijk 28 H in Utrecht,3514 BH ,"€1,500 per month",2 weeks,For rent,Immediately,Furnished,60 m²,Apartment,Existing building,2,1.0,1.0,"Shower
+ Bath
+ Toilet",Present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/00ff528d/gruttersdijk,,,,,No,Temporary rental,,,,,,Not present,,,,,,,"Minimum of 12, maximum of 24 months",,,,,,,Vogelenbuurt,1500,,60,2,1.0,1.0,,True,,False
+19,Apartment Twijnstraat in Utrecht,3511 ZL ,"€1,150 per month
+
+Includes: Electricity, Gas, Water",2 weeks,For rent,In consultation,Upholstered,31 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/40a9c93d/twijnstraat,Good,60 m³,1950,1,No,Temporary rental,€1150,In the city centre,,,,Not present,,,No,,,,,,,,,,,Lange Nieuwstraat en omgeving,1150,,31,2,1.0,,,False,,False
+20,Apartment Monarchvlinderlaan in Utrecht,3544 DC ,"€1,295 per month",2 weeks,For rent,Immediately,Furnished,56 m²,"Downstairs apartment, Apartment",Existing building,3,1.0,1.0,"Shower
+ Toilet",,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/7fc58433/monarchvlinderlaan,Good,,,2,No,Temporary rental,€2590,,,,,Not present,,No,No,Working,,2,,,,,,,,Parkwijk-Noord,1295,,56,3,1.0,1.0,A,False,,False
+21,Apartment Catharijnesingel in Utrecht,3511 GM ,"€1,600 per month
+
+Excludes: Service costs",3 weeks,For rent,Immediately,Upholstered or furnished,32 m²,Upstairs apartment,Existing building,2,1.0,,,Not present,Not present,D,https://www.pararius.com/apartment-for-rent/utrecht/e307977c/catharijnesingel,Excellent,95 m³,1920,1,No,,,,,,,,,,,,,,,,€250,,,,,Hooch Boulandt,1600,250,32,2,1.0,,D,False,,False
+22,Apartment Vleutenseweg in Utrecht,3532 HL ,"€1,650 per month",18-10-2022,For rent,From 26-10-2022,Furnished,47 m²,Gallery flat,Existing building,2,1.0,,"Shower
+ Toilet",Present,Present,,https://www.pararius.com/apartment-for-rent/utrecht/f8fe35e2/vleutenseweg,,,,,No,,€1650,"In the city centre
+ Unobstructed view",,,,Not present,On private land,,No,,,,,,,,,,,Lombok-Oost,1650,,47,2,1.0,,,True,,True
+23,Apartment Zambesidreef 139 in Utrecht,3564 CB ,"€1,230 per month",6 weeks,For rent,Immediately,Shell,88 m²,Gallery flat,Existing building,3,2.0,1.0,Lift,Present,Not present,A+,https://www.pararius.com/apartment-for-rent/utrecht/6d03c0f1/zambesidreef,,,,,,,,,,,,,,,,,,,,,,,,,,Zambesidreef en omgeving,1230,,88,3,2.0,1.0,A+,True,,False
+24,Studio Bemuurde Weerd O.Z. 33 in Utrecht,3514 AP ,"€1,500 per month
+
+Includes: Electricity, Gas, Internet, Water",17-10-2022,For rent,From 01-11-2022,Upholstered or furnished,55 m²,"Studio, Apartment",Existing building,1,1.0,1.0,,Present,Present,,https://www.pararius.com/studio-for-rent/utrecht/fc24df83/bemuurde-weerd-o-z,Good,150 m³,1820,1,No,Temporary rental,€3000,In the city centre,"Double glazing, Floor insulation, Fully insulated, Roof insulation, Wall insulation",Central heating boiler,Gas boiler,Not present,Public,No,No,,,,,,,,,,,Lauwerecht,1500,,55,1,1.0,1.0,,True,60,True
+25,Apartment Auriollaan in Utrecht,3527 ES ,"€1,575 per month",2 weeks,Under option,From 01-11-2022,Upholstered,75 m²,"Mezzanine, Apartment",Existing building,4,3.0,1.0,Toilet,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/44a0c9b1/auriollaan,Good,185 m³,2016,1,No,Temporary rental,€3150,"On a quiet road
+ in a residential area",,,,Not present,Public,No,No,Working,€4725,,,,,,,,,Kanaleneiland-Noord,1575,,75,4,3.0,1.0,B,True,,False
+26,Apartment Kromme Nieuwegracht in Utrecht,3512 HC ,"€1,695 per month",2 months,For rent,From 01-12-2022,Upholstered,100 m²,"Penthouse, Apartment",Existing building,3,2.0,1.0,Laundry room,Present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/36e48ff9/kromme-nieuwegracht,Good,250 m³,1900,1,No,Temporary rental,€3390,"On a waterway
+ By the water
+ In the city centre",,,,Not present,,No,No,Working,€5085,,,,,,,,,"Domplein, Neude, Janskerkhof",1695,,100,3,2.0,1.0,,True,,False
+27,Apartment Nieuwegracht in Utrecht,3512 LV ,"€1,350 per month",20-10-2022,For rent,From 15-11-2022,Furnished,45 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/a15db453/nieuwegracht,Good,100 m³,1600,1,No,Temporary rental,€2700,"By the water
+ In the city centre",,,,Not present,,,No,Working,€4050,1,,,,,,,,Nieuwegracht-Oost,1350,,45,2,1.0,1.0,,False,,False
+28,Apartment Westerdijk 4 0116 in Utrecht,3513 EW ,€895 per month,14-10-2022,For rent,From 01-11-2022,Upholstered,28 m²,Gallery flat,Existing building,1,,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/7e953747/westerdijk,,,,,,,,,,,,,,,,,,,,,,,,,,Pijlsweerd-Zuid,895,,28,1,,1.0,A,False,,False
+29,Apartment Pieterskerkhof 23 L in Utrecht,3512 JS ,"€1,750 per month
+
+Excludes: Service costs",21-10-2022,For rent,From 01-11-2022,Upholstered,63 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,"Cable TV
+ Mechanical ventilation
+ Shower
+ Toilet
+ Laundry room",Not present,Not present,A+++,https://www.pararius.com/apartment-for-rent/utrecht/70eb0c4b/pieterskerkhof,Excellent,190 m³,2022,1,No,,,In the city centre,"Double glazing, Floor insulation, Fully insulated, Roof insulation, Wall insulation",District heating,Central heating,Present,Paid,,,,,,,Monumental building,€100,,,Box,,"Domplein, Neude, Janskerkhof",1750,100,63,2,1.0,1.0,A+++,False,,False
+30,Apartment Koekoeksplein in Utrecht,3514 TT ,"€1,515 per month",13-10-2022,For rent,From 01-11-2022,Upholstered,45 m²,"Downstairs apartment, Apartment",Existing building,3,2.0,1.0,"Shower
+ Toilet
+ Laundry room",,Present,B,https://www.pararius.com/apartment-for-rent/utrecht/b686dd1f/koekoeksplein,Excellent,115 m³,1900,1,No,Temporary rental,€3030,in a residential area,,,,Not present,Paid,No,No,Working,,2,,,,,,,,Vogelenbuurt,1515,,45,3,2.0,1.0,B,False,10,True
+31,Apartment Gruttersdijk 27 M in Utrecht,3514 BH ,"€1,400 per month",2 weeks,For rent,From 01-11-2022,Upholstered or furnished,51 m²,Apartment,Existing building,2,1.0,1.0,Toilet,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/a03a96cc/gruttersdijk,,,,,No,Temporary rental,,,,,,Not present,,,,,,,"Minimum of 12, maximum of 24 months",,,,,,,Vogelenbuurt,1400,,51,2,1.0,1.0,,False,,False
+32,Apartment Bloemstraat in Utrecht,3581 WE ,"€1,295 per month",3 weeks,Rented under option,From 01-11-2022,Upholstered,45 m²,Downstairs apartment,Existing building,2,1.0,1.0,,Not present,Present,D,https://www.pararius.com/apartment-for-rent/utrecht/dff215e0/bloemstraat,,,,,No,Unlimited period,,,,,,Not present,,,,,,,Minimum of 12 months,,,,,,,Oudwijk,1295,,45,2,1.0,1.0,D,False,12,True
+33,Studio Vleutenseweg in Utrecht,3532 HH ,"€1,295 per month
+
+Includes: Electricity, Gas, Internet, Service costs, Water",17-10-2022,For rent,Immediately,Upholstered,20 m²,Studio,Existing building,1,,,,,Not present,,https://www.pararius.com/studio-for-rent/utrecht/a02ba2e8/vleutenseweg,,,,1,No,,€2590,"In the city centre
+ in a residential area",,,,Not present,,No,No,,,1,,,,,,,,"Nieuw Engeland, Th. a. Kempisplantsoen en omgeving",1295,,20,1,,,,False,,False
+34,Studio Limapad in Utrecht,3584 SR ,€520 per month,3+ months,For rent,In consultation,Furnished,22 m²,Studio,Existing building,2,1.0,2.0,Shower,,Not present,,https://www.pararius.com/studio-for-rent/utrecht/48156611/limapad,,,2020,1,No,,,,,,,Not present,,,,,,,,,,,,,,Utrecht Science Park,520,,22,2,1.0,2.0,,False,,False
+35,Apartment Wisselstraat in Utrecht,3551 WG ,"€1,600 per month",7 weeks,For rent,Immediately,,47 m²,Upstairs apartment,Existing building,2,1.0,,,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/66348f0e/wisselstraat,Good,156 m³,2021-2030,1,No,,,,,,,,,,,,,,,,,,,,,2e Daalsebuurt en omgeving,1600,,47,2,1.0,,A,False,,False
+36,Apartment Maliestraat 1 5 in Utrecht,3581 SH ,"€1,745 per month",15-10-2022,Rented under option,From 15-11-2022,Furnished,60 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,"Mechanical ventilation
+ Shower
+ Toilet",Not present,Present,,https://www.pararius.com/apartment-for-rent/utrecht/f97bb17d/maliestraat,Good,180 m³,1906,1,,,€3490,"in a residential area
+ Near public transportation",,,,,,,,,,,,,€150,,,,,Buiten Wittevrouwen,1745,150,60,2,1.0,1.0,,False,,True
+37,Apartment Domplein in Utrecht,3512 JC ,€975 per month,09-10-2022,Under option,From 01-11-2022,Furnished,22 m²,Upstairs apartment,Existing building,1,1.0,,French balcony,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/3303ef9a/domplein,Good,60 m³,1900,1,No,,,,,,Central heating,,,,,,,,,Monumental building,,,,,,"Domplein, Neude, Janskerkhof",975,,22,1,1.0,,,False,,False
+38,Apartment Breedstraat in Utrecht,3512 TX ,"€1,400 per month",2 weeks,For rent,Immediately,,48 m²,Downstairs apartment,Existing building,2,1.0,,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/ab97c227/breedstraat,Good,300 m³,1993,1,No,,,,,,,,,,,,,,,,,,,,,Breedstraat en Plompetorengracht en omgeving,1400,,48,2,1.0,,,False,,False
+39,Apartment Kromme Nieuwegracht in Utrecht,3512 HL ,"€1,650 per month",13-10-2022,Under option,From 01-11-2022,Upholstered,60 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/df2a0d25/kromme-nieuwegracht,Good,150 m³,1450,1,No,Temporary rental,€3300,"On a quiet road
+ On a waterway
+ In the city centre
+ Unobstructed view",,,,Not present,Public,No,No,Working,€4950,,,Monumental building,,,,,,Nieuwegracht-Oost,1650,,60,2,1.0,,,False,,False
+40,House Bollenhofsestraat in Utrecht,3572 VH ,"€1,500 per month",14-10-2022,For rent,In consultation,,72 m²,"Corner house, Family home",Existing building,3,2.0,1.0,"Shower
+ Toilet",Not present,Not present,,https://www.pararius.com/house-for-rent/utrecht/49579329/bollenhofsestraat,Good,200 m³,1906,3,No,,,"On a quiet road
+ in a residential area",Fully insulated,Central heating boiler,Central heating boiler,,Public,,,,,,,,,64 m²,,,,Wittevrouwen,1500,,72,3,2.0,1.0,,False,,False
+41,House Abstederdijk in Utrecht,3582 BE ,"€1,600 per month",2 weeks,Under option,In consultation,,87 m²,"Corner house, Family home",Existing building,4,2.0,2.0,"Shower
+ Storage space
+ Toilet",Not present,Present,,https://www.pararius.com/house-for-rent/utrecht/405afd42/abstederdijk,Reasonable,260 m³,Before 1906,3,No,,,"On a quiet road
+ in a residential area","Double glazing, Roof insulation",Central heating boiler,Central heating boiler,Present,Public,,,,,,,,,89 m²,achtertuin,Aangebouwd hout,,"Abstede, Tolsteegsingel e.o.",1600,,87,4,2.0,2.0,,False,45,True
+42,House Korenbloemstraat in Utrecht,3551 GM ,"€1,750 per month",21-10-2022,For rent,From 01-12-2022,Upholstered,85 m²,"Corner house, Family home",Existing building,4,2.0,2.0,"Roof terrace
+ Shower
+ Storage space",,Present,F,https://www.pararius.com/house-for-rent/utrecht/1f1f3263/korenbloemstraat,Good,212 m³,1906,2,No,Unlimited period,€1750,"At a park
+ in a residential area",,,,Not present,Paid,No,No,Working,€5250,2,,,,,,,,"Egelantierstraat, Mariëndaalstraat e.o.",1750,,85,4,2.0,2.0,F,False,16,True
+43,Apartment Hebe Kohlbruggeweg in Utrecht,3527 MD ,"€1,500 per month",19-10-2022,For rent,Immediately,Upholstered,67 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,,Not present,,A++,https://www.pararius.com/apartment-for-rent/utrecht/5baa9b49/hebe-kohlbruggeweg,,200 m³,2022,1,,,€3000,,,,,,,,,,,,,,,,,,,Transwijk-Noord,1500,,67,2,1.0,1.0,A++,False,,False
+44,Apartment Twellosebeeklaan in Utrecht,3521 DR ,"€1,525 per month
+
+Excludes: Service costs",7 weeks,For rent,Immediately,,80 m²,Gallery flat,New development,3,2.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/d176be81/twellosebeeklaan,Excellent,230 m³,2021,1,Yes,,,,,,,,,,,,,,,,,,,Parkeerkelder,,Dichterswijk,1525,,80,3,2.0,,,False,,False
+45,House Piet Heinstraat 9 in Utrecht,3582 BX ,"€1,675 per month",15-10-2022,For rent,In consultation,Upholstered,70 m²,"Mid-terrace house, Family home",Existing building,2,1.0,,Cable TV,Not present,Present,C,https://www.pararius.com/house-for-rent/utrecht/bd31e1fb/piet-heinstraat,Good,271 m³,1906,2,No,,,"On a quiet road
+ in a residential area
+ Unobstructed view",Double glazing,Central heating boiler,Central heating boiler,,Public,,,,,,,Monumental building,,93 m²,achtertuin,,,"Abstede, Tolsteegsingel e.o.",1675,,70,2,1.0,,C,False,50,True
+46,Apartment Twellosebeeklaan in Utrecht,3521 DR ,"€1,500 per month
+
+Excludes: Service costs",7 weeks,For rent,Immediately,,81 m²,"Gallery flat, Apartment",New development,3,2.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/90eb4902/twellosebeeklaan,Excellent,230 m³,2021,1,Yes,,,,,,,,,,,,,,,,,,,Parkeerkelder,,Dichterswijk,1500,,81,3,2.0,,,False,,False
+47,Apartment Obrechtstraat 4 in Utrecht,3572 EE ,"€1,495 per month",13-10-2022,Under option,From 01-11-2022,Shell,70 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,"Mechanical ventilation
+ Shower
+ Toilet",Not present,Present,B,https://www.pararius.com/apartment-for-rent/utrecht/5bb3b77a/obrechtstraat,Excellent,196 m³,1928,1,Yes,,€2990,"in a residential area
+ Near public transportation",,,,,Paid,,,,,,,,,,achtertuin,,,Wittevrouwen,1495,,70,2,1.0,1.0,B,False,,True
+48,Apartment Adriaan van Bergenstraat in Utrecht,3554 VE ,"€1,600 per month
+
+Includes: Service costs",19-10-2022,For rent,From 15-11-2022,Upholstered,81 m²,"Gallery flat, Apartment",Existing building,3,2.0,1.0,,Present,,A,https://www.pararius.com/apartment-for-rent/utrecht/558fd8b4/adriaan-van-bergenstraat,,,2002,,Yes,,,,,,,,,,,,,,,,,,,,,Schaakbuurt en omgeving,1600,,81,3,2.0,1.0,A,True,,False
+49,Apartment Wijde Begijnestraat in Utrecht,3512 AW ,"€1,400 per month
+
+Includes: Service costs",11-10-2022,For rent,Immediately,Upholstered,60 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,"Shower
+ Toilet",,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/f2a2f833/wijde-begijnestraat,Good,,,1,No,,€2800,In the city centre,,,,Not present,,No,No,,,2,,Monumental building,,,,,,Breedstraat en Plompetorengracht en omgeving,1400,,60,2,1.0,1.0,,False,,False
+50,House Singelstraat in Utrecht,3513 BM ,"€1,695 per month
+
+Includes: Service costs",14-10-2022,For rent,Immediately,Furnished,70 m²,"Mid-terrace house, Family home",Existing building,2,1.0,1.0,,,,D,https://www.pararius.com/house-for-rent/utrecht/96db807c/singelstraat,,,1910,,No,,,,,,,,,,,,,,,,,,,,,Pijlsweerd-Zuid,1695,,70,2,1.0,1.0,D,False,,False
+51,Apartment Tafelbergdreef 192 in Utrecht,3564 AG ,"€1,325 per month",21-10-2022,For rent,From 18-11-2022,Upholstered,84 m²,Gallery flat,Existing building,4,3.0,1.0,Lift,Present,Not present,F,https://www.pararius.com/apartment-for-rent/utrecht/43bba35a/tafelbergdreef,,,1967,,Yes,,,,,,,,,,,,,,Minimum of 12 months,,,,,,,Zambesidreef en omgeving,1325,,84,4,3.0,1.0,F,True,,False
+52,Apartment Weerdsingel O.Z. in Utrecht,3514 AG ,"€1,500 per month",21-10-2022,For rent,From 01-11-2022,Furnished,75 m²,Gallery flat,Existing building,2,1.0,1.0,,,,,https://www.pararius.com/apartment-for-rent/utrecht/c19da239/weerdsingel-o-z,,,1880,,,,,,,,,,,,,,,,,,,,,,,Vogelenbuurt,1500,,75,2,1.0,1.0,,False,,False
+53,Apartment Zadelstraat 5 in Utrecht,3511 LR ,"€1,350 per month",2 weeks,Rented under option,From 01-11-2022,Shell,62 m²,Apartment,Existing building,2,1.0,1.0,Shower,Not present,Not present,F,https://www.pararius.com/apartment-for-rent/utrecht/689f51e3/zadelstraat,,,,,No,,,,,,,Not present,,,,,,,,,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1350,,62,2,1.0,1.0,F,False,,False
+54,Apartment Hekelsteeg 10 A in Utrecht,3511 AK ,"€1,325 per month",20-10-2022,For rent,Immediately,,51 m²,"Mezzanine, Apartment",Existing building,2,1.0,1.0,,Not present,Present,D,https://www.pararius.com/apartment-for-rent/utrecht/cfa3e7bc/hekelsteeg,Excellent,153 m³,1913,1,,,€1350,In the city centre,,,,,,,,,,,,,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1325,,51,2,1.0,1.0,D,False,,True
+55,Apartment Smakkelaarsveld 23 in Utrecht,3511 EA ,"€1,450 per month",18-10-2022,Under option,Immediately,,50 m²,"Mezzanine, Apartment",Existing building,2,1.0,1.0,"Shower
+ Storage space
+ Toilet",Present,,C,https://www.pararius.com/apartment-for-rent/utrecht/2f0b764d/smakkelaarsveld,,150 m³,1975,1,,,€1450,,,,,,,,,,,,,,,,,,,Hoog-Catharijne NS en Jaarbeurs,1450,,50,2,1.0,1.0,C,True,,False
+56,Apartment Van Weerden Poelmanlaan 2 in Utrecht,3527 KN ,"€1,350 per month",3 weeks,For rent,From 29-10-2022,Upholstered,92 m²,Gallery flat,Existing building,3,2.0,1.0,Lift,Present,Not present,G,https://www.pararius.com/apartment-for-rent/utrecht/143bfcc8/van-weerden-poelmanlaan,,,1968,,Yes,,,,,,,,,,,,,,Minimum of 12 months,,,,,,,Transwijk-Noord,1350,,92,3,2.0,1.0,G,True,,False
+57,Apartment Burgemeester Reigerstraat in Utrecht,3581 KW ,"€1,550 per month",14-10-2022,For rent,Immediately,Furnished,58 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,Mechanical ventilation,Present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/49495a3e/burgemeester-reigerstraat,Good,229 m³,1900,1,No,Temporary rental,€1745,In the city centre,"Fully insulated, high-efficiency glass",Central heating boiler,Central heating boiler,Not present,Public,No,No,Working,€5100,2,,,,,,,"Remeha HR (Gas, from 2022, Property)",Oudwijk,1550,,58,2,1.0,1.0,,True,,False
+58,Apartment Westerdijk 4 1702 in Utrecht,3513 EW ,"€1,195 per month",3 weeks,For rent,From 01-11-2022,Upholstered,44 m²,Gallery flat,Existing building,2,1.0,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/48d7bb7a/westerdijk,,,,,,,,,,,,,,,,,,,,,,,,,,Pijlsweerd-Zuid,1195,,44,2,1.0,1.0,A,False,,False
+59,Apartment Pablo Picassostraat in Utrecht,3544 NX ,"€1,295 per month",3 weeks,For rent,In consultation,,88 m²,Staircase-accessed flat,New development,3,2.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/e97b0e8d/pablo-picassostraat,Good,228 m³,2022,1,Yes,,,,,,,,,,,,,,,,€45,,,Parkeerplaats,,Het Zand-West,1295,45,88,3,2.0,,,False,,False
+60,Apartment Loeff Berchmakerstraat 11 1 in Utrecht,3512 TC ,"€1,050 per month
+
+Includes: Gas, Water, Electricity",09-10-2022,For rent,Immediately,Shell,35 m²,Apartment,Existing building,2,1.0,1.0,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/6d8a76f8/loeff-berchmakerstraat,,,,,No,Unlimited period,,,,,,Not present,,,,,,,Minimum of 1 months,,,,,,,Breedstraat en Plompetorengracht en omgeving,1050,,35,2,1.0,1.0,,False,,False
+61,Apartment Pieterskerkhof 23 B in Utrecht,3512 JS ,"€1,675 per month
+
+Excludes: Service costs",21-10-2022,For rent,From 01-11-2022,Upholstered,66 m²,"Maisonette, Apartment",Existing building,2,1.0,1.0,"Cable TV
+ Mechanical ventilation
+ Shower
+ Toilet
+ Laundry room",Not present,Not present,A++,https://www.pararius.com/apartment-for-rent/utrecht/a6659750/pieterskerkhof,Excellent,220 m³,2022,1,No,,,In the city centre,"Double glazing, Floor insulation, Fully insulated, Roof insulation, Wall insulation",District heating,Central heating,Present,Paid,,,,,,,Monumental building,€100,,,Box,,"Domplein, Neude, Janskerkhof",1675,100,66,2,1.0,1.0,A++,False,,False
+62,Apartment Nachtegaalstraat in Utrecht,3581 AB ,"€1,395 per month",18-10-2022,For rent,From 01-11-2022,Upholstered,65 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,,Not present,,,https://www.pararius.com/apartment-for-rent/utrecht/0343c454/nachtegaalstraat,,180 m³,Before 1906,1,,,€3290,Near public transportation,,,,,,,,,,,,,,,,,,Buiten Wittevrouwen,1395,,65,2,1.0,1.0,,False,,False
+63,House Wijde Doelen in Utrecht,3512 XN ,"€1,495 per month",18-10-2022,For rent,From 01-11-2022,Upholstered,84 m²,"Mid-terrace house, Family home",Existing building,3,2.0,1.0,,,Not present,E,https://www.pararius.com/house-for-rent/utrecht/603821fd/wijde-doelen,Good,210 m³,1900,2,No,Temporary rental,€2990,"In the city centre
+ in a residential area",,,,Not present,,No,No,Working,€4485,,,,,,,,,Lange Nieuwstraat en omgeving,1495,,84,3,2.0,1.0,E,False,,False
+64,Apartment Merelstraat in Utrecht,3514 CL ,"€1,150 per month
+
+Excludes: Service costs",19-10-2022,For rent,From 01-11-2022,Upholstered or furnished,26 m²,Upstairs apartment,Existing building,2,1.0,,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/769db979/merelstraat,Good,95 m³,1915,1,No,,,,,,,,,,,,,,,,€175,,,,,Vogelenbuurt,1150,175,26,2,1.0,,,False,,False
+65,House Morelstraat in Utrecht,3552 GM ,"€1,495 per month",2 weeks,For rent,From 01-11-2022,Furnished,55 m²,"Mid-terrace house, Family home",Existing building,2,1.0,,,Not present,Present,F,https://www.pararius.com/house-for-rent/utrecht/19342a59/morelstraat,,,,,Yes,,,,,,,,,,,,,,,,,,,,,Ondiep,1495,,55,2,1.0,,F,False,,True
+66,Apartment Winklerlaan in Utrecht,3571 KE ,"€1,350 per month",2 weeks,For rent,From 01-11-2022,Shell,85 m²,Gallery flat,Existing building,3,3.0,,,Present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/56eddceb/winklerlaan,,,,,,,,,,,,,,,,,,,,,,,,,,Tuindorp-Oost,1350,,85,3,3.0,,A,True,,False
+67,Apartment Koningsweg in Utrecht,3582 GH ,"€1,550 per month",3 weeks,For rent,In consultation,Upholstered,80 m²,"Gallery flat, Apartment",Existing building,3,2.0,,,,Not present,D,https://www.pararius.com/apartment-for-rent/utrecht/bfd93471/koningsweg,Good,240 m³,1962,1,No,Temporary rental,€1550,At a park,,,,Present,Paid,No,No,Working,€4700,2,,,,,,,,L. Napoleonplantsoen en omgeving,1550,,80,3,2.0,,D,False,,False
+68,Apartment Londenstraat in Utrecht,3541 CB ,"€1,600 per month",7 weeks,Rented under option,From 01-11-2022,Upholstered,67 m²,"Gallery flat, Apartment",Existing building,3,1.0,,Mechanical ventilation,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/31cf2fa5/londenstraat,Good,265 m³,2011-2020,1,Yes,,,In the city centre,,District heating,,Present,Paid,,,,,,,,,,,Parkeerkelder,,Leidsche Rijn-Centrum,1600,,67,3,1.0,,A,False,,False
+69,Apartment Aartsbisschop Romerostraat 133 in Utrecht,3573 AE ,"€1,515 per month",6 weeks,For rent,Immediately,Upholstered,101 m²,Gallery flat,Existing building,3,2.0,1.0,Lift,Present,Not present,C,https://www.pararius.com/apartment-for-rent/utrecht/743d4722/aartsbisschop-romerostraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1515,,101,3,2.0,1.0,C,True,,False
+70,Apartment Schoutenstraat in Utrecht,3512 GB ,"€1,295 per month",13-10-2022,For rent,From 01-01-2023,Upholstered,60 m²,Gallery flat,Existing building,2,1.0,1.0,,,,,https://www.pararius.com/apartment-for-rent/utrecht/7323072b/schoutenstraat,,,1900,,,,,,,,,,,,,,,,,,,,,,,"Domplein, Neude, Janskerkhof",1295,,60,2,1.0,1.0,,False,,False
+71,House Jasmijnstraat in Utrecht,3551 SP ,"€1,650 per month",5 weeks,For rent,In consultation,,83 m²,"Mid-terrace house, Family home",Existing building,6,2.0,1.0,"Shower
+ Storage space
+ Toilet
+ Laundry room",Not present,Present,F,https://www.pararius.com/house-for-rent/utrecht/ad88ac23/jasmijnstraat,Good,185 m³,1910,2,No,,,In the city centre,Partial double glazing,Central heating boiler,Central heating boiler,Present,Paid,,,,,,,,,,achtertuin,Aangebouwd steen,"HR (Gas, Property)",2e Daalsebuurt en omgeving,1650,,83,6,2.0,1.0,F,False,5,True
+72,Apartment Oudegracht in Utrecht,3511 AJ ,"€1,100 per month",2 weeks,For rent,From 01-11-2022,Upholstered,50 m²,Gallery flat,Existing building,1,,1.0,,,,,https://www.pararius.com/apartment-for-rent/utrecht/3364a017/oudegracht,,,1930,,,,,,,,,,,,,,,,,,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1100,,50,1,,1.0,,False,,False
+73,Apartment Loeff Berchmakerstraat in Utrecht,3512 TD ,"€1,095 per month",2 weeks,For rent,From 01-11-2022,Upholstered,37 m²,Gallery flat,Existing building,2,2.0,,,Present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/8dee882a/loeff-berchmakerstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Breedstraat en Plompetorengracht en omgeving,1095,,37,2,2.0,,A,True,,False
+74,Apartment Linnaeusstraat in Utrecht,3553 CE ,"€1,075 per month",3 weeks,Rented under option,Immediately,,38 m²,Upstairs apartment,Existing building,1,,,"Roof terrace
+ Shower
+ Toilet",Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/b31afdb1/linnaeusstraat,Good,80 m³,1926,1,No,,,,,,,,Public,,,,,,,,€200,,,,,Elinkwijk en omgeving,1075,200,38,1,,,,False,,False
+75,Apartment Bakhuizen van den Brinkstraat in Utrecht,3532 GA ,"€1,150 per month",21-10-2022,For rent,From 01-11-2022,Furnished,35 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,"Shower
+ Toilet",,Present,C,https://www.pararius.com/apartment-for-rent/utrecht/a9b70717/bakhuizen-van-den-brinkstraat,Good,88 m³,1950,1,No,Unlimited period,€1150,in a residential area,,,,Not present,Paid,No,No,Working,€3450,2,,,,,,,,"Nieuw Engeland, Th. a. Kempisplantsoen en omgeving",1150,,35,2,1.0,1.0,C,False,,True
+76,Apartment Eschersingel in Utrecht,3544 ML ,"€1,525 per month",21-10-2022,For rent,From 21-11-2022,Upholstered or furnished,100 m²,"Upstairs apartment, Double upstairs apartment",Existing building,3,2.0,1.0,Toilet,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/59c50522/eschersingel,Reasonable,270 m³,2000,1,No,Unlimited period,€1525,in a residential area,,,,Not present,,No,No,Working,€4575,2,,,,,,,,Het Zand-West,1525,,100,3,2.0,1.0,,False,,False
+77,Apartment Pal Maleterstraat 11 in Utrecht,3573 PE ,"€1,645 per month",6 weeks,For rent,Immediately,Upholstered,112 m²,Gallery flat,Existing building,4,3.0,1.0,Lift,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/14b620f4/pal-maleterstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1645,,112,4,3.0,1.0,B,True,,False
+78,Apartment Beneluxlaan 134 in Utrecht,3527 HX ,"€1,395 per month",11-10-2022,For rent,From 01-11-2022,Shell,75 m²,"Gallery flat, Apartment",Existing building,3,2.0,1.0,"Shower
+ Toilet",Present,,F,https://www.pararius.com/apartment-for-rent/utrecht/2fd53209/beneluxlaan,,242 m³,1963,1,Yes,,€2790,,Partial double glazing,District heating,Electric boiler,,Public,,,,,,,,,,,,,Transwijk-Noord,1395,,75,3,2.0,1.0,F,True,,False
+79,Apartment Aartsbisschop Romerostraat 133 in Utrecht,3573 AE ,"€1,515 per month",6 weeks,For rent,Immediately,Upholstered,101 m²,Gallery flat,Existing building,3,2.0,1.0,Lift,Present,Not present,C,https://www.pararius.com/apartment-for-rent/utrecht/743d4722/aartsbisschop-romerostraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1515,,101,3,2.0,1.0,C,True,,False
+80,Apartment Pieterskerkhof 23 L in Utrecht,3512 JS ,"€1,750 per month
+
+Excludes: Service costs",21-10-2022,For rent,From 01-11-2022,Upholstered,63 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,"Cable TV
+ Mechanical ventilation
+ Shower
+ Toilet
+ Laundry room",Not present,Not present,A+++,https://www.pararius.com/apartment-for-rent/utrecht/70eb0c4b/pieterskerkhof,€100,Monumental building,Excellent,190 m³,2022,In the city centre,1,"Double glazing, Floor insulation, Fully insulated, Roof insulation, Wall insulation",District heating,Central heating,Present,Box,No,Paid,,,,,,,,,,,,"Domplein, Neude, Janskerkhof",1750,,63,2,1.0,1.0,A+++,False,,False
+81,Apartment Auriollaan in Utrecht,3527 ES ,"€1,575 per month",2 weeks,Under option,From 01-11-2022,Upholstered,75 m²,"Mezzanine, Apartment",Existing building,4,3.0,1.0,Toilet,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/44a0c9b1/auriollaan,,,Good,185 m³,2016,"On a quiet road
+ in a residential area",1,,,,Not present,,No,Public,Temporary rental,"€3,150",No,No,Working,"€4,725",,,,,,Kanaleneiland-Noord,1575,,75,4,3.0,1.0,B,True,,False
+82,Studio Limapad in Utrecht,3584 SR ,€520 per month,3+ months,For rent,In consultation,Furnished,22 m²,Studio,Existing building,2,1.0,2.0,Shower,,Not present,,https://www.pararius.com/studio-for-rent/utrecht/48156611/limapad,,,,,2020,,1,,,,Not present,,No,,,,,,,,,,,,,Utrecht Science Park,520,,22,2,1.0,2.0,,False,,False
+83,Apartment Maliestraat 1 5 in Utrecht,3581 SH ,"€1,745 per month",15-10-2022,Rented under option,From 15-11-2022,Furnished,60 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,"Mechanical ventilation
+ Shower
+ Toilet",Not present,Present,,https://www.pararius.com/apartment-for-rent/utrecht/f97bb17d/maliestraat,€150,,Good,180 m³,1906,"in a residential area
+ Near public transportation",1,,,,,,,,,"€3,490",,,,,,,,,,Buiten Wittevrouwen,1745,,60,2,1.0,1.0,,False,,True
+84,Apartment Zadelstraat 5 in Utrecht,3511 LR ,"€1,350 per month",2 weeks,Rented under option,From 01-11-2022,Shell,62 m²,Apartment,Existing building,2,1.0,1.0,Shower,Not present,Not present,F,https://www.pararius.com/apartment-for-rent/utrecht/689f51e3/zadelstraat,,,,,,,,,,,Not present,,No,,,,,,,,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1350,,62,2,1.0,1.0,F,False,,False
+85,Apartment Adriaan van Bergenstraat in Utrecht,3554 VE ,"€1,600 per month
+
+Includes: Service costs",19-10-2022,For rent,From 15-11-2022,Upholstered,81 m²,"Gallery flat, Apartment",Existing building,3,2.0,1.0,,Present,,A,https://www.pararius.com/apartment-for-rent/utrecht/558fd8b4/adriaan-van-bergenstraat,,,,,2002,,,,,,,,Yes,,,,,,,,,,,,,Schaakbuurt en omgeving,1600,,81,3,2.0,1.0,A,True,,False
+86,Apartment Linnaeusstraat in Utrecht,3553 CE ,"€1,075 per month",3 weeks,Rented under option,Immediately,,38 m²,Upstairs apartment,Existing building,1,,,"Roof terrace
+ Shower
+ Toilet",Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/b31afdb1/linnaeusstraat,€200,,Good,80 m³,1926,,1,,,,,,No,Public,,,,,,,,,,,,Elinkwijk en omgeving,1075,,38,1,,,,False,,False
+87,Apartment Visschersplein 178 in Utrecht,3511 LX ,"€1,495 per month",2 weeks,Under offer,From 01-11-2022,Upholstered,70 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,,Not present,,A,https://www.pararius.com/apartment-for-rent/utrecht/5010e514/visschersplein,,Monumental building,,195 m³,Before 1906,"In the city centre
+ Near public transportation
+ Near a school
+ Near a shopping centre",1,,,District heating,,,,,,"€2,990",,,,,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1495,,70,2,1.0,1.0,A,False,,False
+88,Apartment Van Hoornekade 135 in Utrecht,3554 AT ,"€1,100 per month",21-10-2022,For rent,In consultation,,90 m²,Upstairs apartment,Existing building,4,2.0,,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/3e92cf4e/van-hoornekade,,,Good,225 m³,1931,,1,,,,,,No,Public,,,,,,,,,,,,Geuzenwijk,1100,,90,4,2.0,,,False,,False
+89,Apartment Loeff Berchmakerstraat in Utrecht,3512 TD ,"€1,095 per month",2 weeks,For rent,From 01-11-2022,Upholstered,37 m²,Gallery flat,Existing building,2,2.0,,,Present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/8dee882a/loeff-berchmakerstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Breedstraat en Plompetorengracht en omgeving,1095,,37,2,2.0,,A,True,,False
+90,Apartment Weerdsingel O.Z. in Utrecht,3514 AG ,"€1,500 per month",21-10-2022,For rent,From 01-11-2022,Furnished,75 m²,Gallery flat,Existing building,2,1.0,1.0,,,,,https://www.pararius.com/apartment-for-rent/utrecht/c19da239/weerdsingel-o-z,,,,,1880,,,,,,,,,,,,,,,,,,,,,Vogelenbuurt,1500,,75,2,1.0,1.0,,False,,False
+91,Apartment Schoutenstraat in Utrecht,3512 GB ,"€1,295 per month",13-10-2022,For rent,From 01-01-2023,Upholstered,60 m²,Gallery flat,Existing building,2,1.0,1.0,,,,,https://www.pararius.com/apartment-for-rent/utrecht/7323072b/schoutenstraat,,,,,1900,,,,,,,,,,,,,,,,,,,,,"Domplein, Neude, Janskerkhof",1295,,60,2,1.0,1.0,,False,,False
+92,Apartment Beneluxlaan 134 in Utrecht,3527 HX ,"€1,395 per month",11-10-2022,For rent,From 01-11-2022,Shell,75 m²,"Gallery flat, Apartment",Existing building,3,2.0,1.0,"Shower
+ Toilet",Present,,F,https://www.pararius.com/apartment-for-rent/utrecht/2fd53209/beneluxlaan,,,,242 m³,1963,,1,Partial double glazing,District heating,Electric boiler,,,Yes,Public,,"€2,790",,,,,,,,,,Transwijk-Noord,1395,,75,3,2.0,1.0,F,True,,False
+93,Apartment Hekelsteeg 10 A in Utrecht,3511 AK ,"€1,325 per month",20-10-2022,For rent,Immediately,,51 m²,"Mezzanine, Apartment",Existing building,2,1.0,1.0,,Not present,Present,D,https://www.pararius.com/apartment-for-rent/utrecht/cfa3e7bc/hekelsteeg,,,Excellent,153 m³,1913,In the city centre,1,,,,,,,,,"€1,350",,,,,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1325,,51,2,1.0,1.0,D,False,,True
+94,Apartment Twijnstraat in Utrecht,3511 ZL ,"€1,150 per month
+
+Includes: Electricity, Gas, Water",2 weeks,For rent,In consultation,Upholstered,31 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/40a9c93d/twijnstraat,,,Good,60 m³,1950,In the city centre,1,,,,Not present,,No,,Temporary rental,"€1,150",,No,,,,,,,,Lange Nieuwstraat en omgeving,1150,,31,2,1.0,,,False,,False
+95,Studio Bemuurde Weerd O.Z. 33 in Utrecht,3514 AP ,"€1,500 per month
+
+Includes: Electricity, Gas, Internet, Water",17-10-2022,For rent,From 01-11-2022,Upholstered or furnished,55 m²,"Studio, Apartment",Existing building,1,1.0,1.0,,Present,Present,,https://www.pararius.com/studio-for-rent/utrecht/fc24df83/bemuurde-weerd-o-z,,,Good,150 m³,1820,In the city centre,1,"Double glazing, Floor insulation, Fully insulated, Roof insulation, Wall insulation",Central heating boiler,Gas boiler,Not present,,No,Public,Temporary rental,"€3,000",No,No,,,,,,,,Lauwerecht,1500,,55,1,1.0,1.0,,True,60,True
+96,Apartment Monarchvlinderlaan in Utrecht,3544 DC ,"€1,295 per month",2 weeks,For rent,Immediately,Furnished,56 m²,"Downstairs apartment, Apartment",Existing building,3,1.0,1.0,"Shower
+ Toilet",,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/7fc58433/monarchvlinderlaan,,,Good,,,,2,,,,Not present,,No,,Temporary rental,"€2,590",No,No,Working,,2,,,,,Parkwijk-Noord,1295,2,56,3,1.0,1.0,A,False,,False
+97,Apartment Domplein in Utrecht,3512 JC ,€975 per month,09-10-2022,Under option,From 01-11-2022,Furnished,22 m²,Upstairs apartment,Existing building,1,1.0,,French balcony,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/3303ef9a/domplein,,Monumental building,Good,60 m³,1900,,1,,,Central heating,,,No,,,,,,,,,,,,,"Domplein, Neude, Janskerkhof",975,,22,1,1.0,,,False,,False
+98,Apartment Catharijnesingel in Utrecht,3511 GM ,"€1,600 per month
+
+Excludes: Service costs",3 weeks,For rent,Immediately,Upholstered or furnished,32 m²,Upstairs apartment,Existing building,2,1.0,,,Not present,Not present,D,https://www.pararius.com/apartment-for-rent/utrecht/e307977c/catharijnesingel,€250,,Excellent,95 m³,1920,,1,,,,,,No,,,,,,,,,,,,,Hooch Boulandt,1600,,32,2,1.0,,D,False,,False
+99,Apartment Nieuwegracht in Utrecht,3512 LV ,"€1,350 per month",20-10-2022,For rent,From 15-11-2022,Furnished,45 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/a15db453/nieuwegracht,,,Good,100 m³,1600,"By the water
+ In the city centre",1,,,,Not present,,No,,Temporary rental,"€2,700",,No,Working,"€4,050",1,,,,,Nieuwegracht-Oost,1350,1,45,2,1.0,1.0,,False,,False
+100,Apartment Loeff Berchmakerstraat 11 1 in Utrecht,3512 TC ,"€1,050 per month
+
+Includes: Gas, Water, Electricity",09-10-2022,For rent,Immediately,Shell,35 m²,Apartment,Existing building,2,1.0,1.0,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/6d8a76f8/loeff-berchmakerstraat,,,,,,,,,,,Not present,,No,,Unlimited period,,,,,,,Minimum of 1 months,,,,Breedstraat en Plompetorengracht en omgeving,1050,,35,2,1.0,1.0,,False,,False
+101,Apartment Van Weerden Poelmanlaan 2 in Utrecht,3527 KN ,"€1,350 per month",3 weeks,For rent,From 29-10-2022,Upholstered,92 m²,Gallery flat,Existing building,3,2.0,1.0,Lift,Present,Not present,G,https://www.pararius.com/apartment-for-rent/utrecht/143bfcc8/van-weerden-poelmanlaan,,,,,1968,,,,,,,,Yes,,,,,,,,,Minimum of 12 months,,,,Transwijk-Noord,1350,,92,3,2.0,1.0,G,True,,False
+102,Apartment Pal Maleterstraat 11 in Utrecht,3573 PE ,"€1,645 per month",6 weeks,For rent,Immediately,Upholstered,112 m²,Gallery flat,Existing building,4,3.0,1.0,Lift,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/14b620f4/pal-maleterstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1645,,112,4,3.0,1.0,B,True,,False
+103,Apartment Wijde Begijnestraat in Utrecht,3512 AW ,"€1,400 per month
+
+Includes: Service costs",11-10-2022,For rent,Immediately,Upholstered,60 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,"Shower
+ Toilet",,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/f2a2f833/wijde-begijnestraat,,Monumental building,Good,,,In the city centre,1,,,,Not present,,No,,,"€2,800",No,No,,,2,,,,,Breedstraat en Plompetorengracht en omgeving,1400,2,60,2,1.0,1.0,,False,,False
+104,House Morelstraat in Utrecht,3552 GM ,"€1,495 per month",2 weeks,For rent,From 01-11-2022,Furnished,55 m²,"Mid-terrace house, Family home",Existing building,2,1.0,,,Not present,Present,F,https://www.pararius.com/house-for-rent/utrecht/19342a59/morelstraat,,,,,,,,,,,,,Yes,,,,,,,,,,,,,Ondiep,1495,,55,2,1.0,,F,False,,True
+105,Apartment Tafelbergdreef 192 in Utrecht,3564 AG ,"€1,325 per month",21-10-2022,For rent,From 18-11-2022,Upholstered,84 m²,Gallery flat,Existing building,4,3.0,1.0,Lift,Present,Not present,F,https://www.pararius.com/apartment-for-rent/utrecht/43bba35a/tafelbergdreef,,,,,1967,,,,,,,,Yes,,,,,,,,,Minimum of 12 months,,,,Zambesidreef en omgeving,1325,,84,4,3.0,1.0,F,True,,False
+106,House Carel Willinkstraat in Utrecht,3544 MA ,"€1,650 per month",10-10-2022,For rent,From 15-11-2022,Upholstered,80 m²,"Mid-terrace house, Family home",Existing building,3,2.0,,"Mechanical ventilation
+ Toilet
+ Laundry room",,Present,A,https://www.pararius.com/house-for-rent/utrecht/8353dcca/carel-willinkstraat,,,Good,298 m³,2005,in a residential area,3,Fully insulated,District heating,District heating,Present,,Yes,Public,Temporary rental,"€3,300",No,No,Working,"€4,950",2,,,,,Het Zand-West,1650,2,80,3,2.0,,A,False,,True
+107,Apartment Hebe Kohlbruggeweg in Utrecht,3527 MD ,"€1,500 per month",19-10-2022,For rent,Immediately,Upholstered,67 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,,Not present,,A++,https://www.pararius.com/apartment-for-rent/utrecht/5baa9b49/hebe-kohlbruggeweg,,,,200 m³,2022,,1,,,,,,,,,"€3,000",,,,,,,,,,Transwijk-Noord,1500,,67,2,1.0,1.0,A++,False,,False
+108,Apartment Pieterskerkhof 23 B in Utrecht,3512 JS ,"€1,675 per month
+
+Excludes: Service costs",21-10-2022,For rent,From 01-11-2022,Upholstered,66 m²,"Maisonette, Apartment",Existing building,2,1.0,1.0,"Cable TV
+ Mechanical ventilation
+ Shower
+ Toilet
+ Laundry room",Not present,Not present,A++,https://www.pararius.com/apartment-for-rent/utrecht/a6659750/pieterskerkhof,€100,Monumental building,Excellent,220 m³,2022,In the city centre,1,"Double glazing, Floor insulation, Fully insulated, Roof insulation, Wall insulation",District heating,Central heating,Present,Box,No,Paid,,,,,,,,,,,,"Domplein, Neude, Janskerkhof",1675,,66,2,1.0,1.0,A++,False,,False
+109,Apartment Pal Maleterstraat 57 in Utrecht,3573 PG ,"€1,675 per month",6 weeks,For rent,Immediately,Upholstered,112 m²,Gallery flat,Existing building,4,3.0,1.0,Lift,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/3b2e0368/pal-maleterstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1675,,112,4,3.0,1.0,B,True,,False
+110,House Korenbloemstraat in Utrecht,3551 GM ,"€1,750 per month",21-10-2022,For rent,From 01-12-2022,Upholstered,85 m²,"Corner house, Family home",Existing building,4,2.0,2.0,"Roof terrace
+ Shower
+ Storage space",,Present,F,https://www.pararius.com/house-for-rent/utrecht/1f1f3263/korenbloemstraat,,,Good,212 m³,1906,"At a park
+ in a residential area",2,,,,Not present,,No,Paid,Unlimited period,"€1,750",No,No,Working,"€5,250",2,,,,,"Egelantierstraat, Mariëndaalstraat e.o.",1750,2,85,4,2.0,2.0,F,False,16,True
+111,Apartment Peltlaan in Utrecht,3527 EB ,"€1,300 per month",2 weeks,For rent,Immediately,Furnished,72 m²,"Upstairs apartment, Apartment",Existing building,3,2.0,1.0,,,Not present,E,https://www.pararius.com/apartment-for-rent/utrecht/83bcf533/peltlaan,,,Good,,1959,in a residential area,1,,,,Not present,,No,Public,Temporary rental,"€3,500",No,No,,,,,,,,Kanaleneiland-Noord,1300,,72,3,2.0,1.0,E,False,,False
+112,Apartment Karel Doormanlaan in Utrecht,3572 NA ,"€1,750 per month",19-10-2022,For rent,From 01-12-2022,Furnished,100 m²,"Upstairs apartment, Apartment",Existing building,3,2.0,1.0,"Lift
+ Toilet",Present,Not present,E,https://www.pararius.com/apartment-for-rent/utrecht/bec8caaf/karel-doormanlaan,,,Good,250 m³,1965,in a residential area,1,,,,Present,,No,,Unlimited period,"€3,500",No,No,Working,"€5,250",,,,,,"Huizingalaan, K. Doormanlaan en omgeving",1750,,100,3,2.0,1.0,E,True,,False
+113,Apartment Zambesidreef 139 in Utrecht,3564 CB ,"€1,230 per month",6 weeks,For rent,Immediately,Shell,88 m²,Gallery flat,Existing building,3,2.0,1.0,Lift,Present,Not present,A+,https://www.pararius.com/apartment-for-rent/utrecht/6d03c0f1/zambesidreef,,,,,,,,,,,,,,,,,,,,,,,,,,Zambesidreef en omgeving,1230,,88,3,2.0,1.0,A+,True,,False
+114,House Wijde Doelen in Utrecht,3512 XN ,"€1,495 per month",18-10-2022,For rent,From 01-11-2022,Upholstered,84 m²,"Mid-terrace house, Family home",Existing building,3,2.0,1.0,,,Not present,E,https://www.pararius.com/house-for-rent/utrecht/603821fd/wijde-doelen,,,Good,210 m³,1900,"In the city centre
+ in a residential area",2,,,,Not present,,No,,Temporary rental,"€2,990",No,No,Working,"€4,485",,,,,,Lange Nieuwstraat en omgeving,1495,,84,3,2.0,1.0,E,False,,False
+115,Apartment Koekoeksplein in Utrecht,3514 TT ,"€1,515 per month",13-10-2022,For rent,From 01-11-2022,Upholstered,45 m²,"Downstairs apartment, Apartment",Existing building,3,2.0,1.0,"Shower
+ Toilet
+ Laundry room",,Present,B,https://www.pararius.com/apartment-for-rent/utrecht/b686dd1f/koekoeksplein,,,Excellent,115 m³,1900,in a residential area,1,,,,Not present,,No,Paid,Temporary rental,"€3,030",No,No,Working,,2,,,,,Vogelenbuurt,1515,2,45,3,2.0,1.0,B,False,10,True
+116,Apartment Kromme Nieuwegracht in Utrecht,3512 HC ,"€1,695 per month",2 months,For rent,From 01-12-2022,Upholstered,100 m²,"Penthouse, Apartment",Existing building,3,2.0,1.0,Laundry room,Present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/36e48ff9/kromme-nieuwegracht,,,Good,250 m³,1900,"On a waterway
+ By the water
+ In the city centre",1,,,,Not present,,No,,Temporary rental,"€3,390",No,No,Working,"€5,085",,,,,,"Domplein, Neude, Janskerkhof",1695,,100,3,2.0,1.0,,True,,False
+117,Studio Oudegracht in Utrecht,3511 AB ,€730 per month,20-10-2022,For rent,Immediately,Furnished,24 m²,Studio,Existing building,1,1.0,1.0,,,Present,,https://www.pararius.com/studio-for-rent/utrecht/26e0fcfb/oudegracht,€315,Monumental building,Excellent,75 m³,1818,In the city centre,1,,,,Not present,,No,,Temporary rental,"€1,500",No,No,Working,,1,,,,,Wijk C,730,1,24,1,1.0,1.0,,False,,True
+118,Apartment Trumanlaan in Utrecht,3527 BM ,"€1,530 per month
+
+Includes: Service costs",7 weeks,For rent,Immediately,Furnished,75 m²,"Upstairs apartment, Apartment",Existing building,3,2.0,2.0,Laundry room,Present,Not present,B,https://www.pararius.com/apartment-for-rent/utrecht/32db0281/trumanlaan,,,,,1960,in a residential area,1,,,,Not present,,No,Public,Unlimited period,"€2,000",,,,,,,,,,Kanaleneiland-Noord,1530,,75,3,2.0,2.0,B,True,,False
+119,Apartment Vleutenseweg in Utrecht,3532 HL ,"€1,650 per month",18-10-2022,For rent,From 26-10-2022,Furnished,47 m²,Gallery flat,Existing building,2,1.0,,"Shower
+ Toilet",Present,Present,,https://www.pararius.com/apartment-for-rent/utrecht/f8fe35e2/vleutenseweg,,,,,,"In the city centre
+ Unobstructed view",,,,,Not present,,No,On private land,,"€1,650",,No,,,,,,,,Lombok-Oost,1650,,47,2,1.0,,,True,,True
+120,Apartment Nachtegaalstraat in Utrecht,3581 AB ,"€1,395 per month",18-10-2022,For rent,From 01-11-2022,Upholstered,65 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,,Not present,,,https://www.pararius.com/apartment-for-rent/utrecht/0343c454/nachtegaalstraat,,,,180 m³,Before 1906,Near public transportation,1,,,,,,,,,"€3,290",,,,,,,,,,Buiten Wittevrouwen,1395,,65,2,1.0,1.0,,False,,False
+121,Apartment Twellosebeeklaan in Utrecht,3521 DR ,"€1,500 per month
+
+Excludes: Service costs",7 weeks,For rent,Immediately,,81 m²,"Gallery flat, Apartment",New development,3,2.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/90eb4902/twellosebeeklaan,,,Excellent,230 m³,2021,,1,,,,,Parkeerkelder,Yes,,,,,,,,,,,,,Dichterswijk,1500,,81,3,2.0,,,False,,False
+122,Apartment Bemuurde Weerd O.Z. 50 in Utrecht,3514 AS ,"€1,295 per month",2 months,For rent,Immediately,Upholstered,53 m²,Gallery flat,Existing building,2,1.0,1.0,,Not present,Not present,D,https://www.pararius.com/apartment-for-rent/utrecht/ce7bd98e/bemuurde-weerd-o-z,,,,,,,,,,,,,,,,,,,,,,,,,,Lauwerecht,1295,,53,2,1.0,1.0,D,False,,False
+123,Apartment Van Sijpesteijnkade in Utrecht,3521 AH ,€950 per month,3 months,For rent,Immediately,,43 m²,Gallery flat,New development,2,1.0,1.0,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/bb76b004/van-sijpesteijnkade,,,Excellent,112 m³,2022,,1,,,,,,No,,,,,,,,,,,,,Hoog-Catharijne NS en Jaarbeurs,950,,43,2,1.0,1.0,,False,,False
+124,Apartment Pal Maleterstraat 47 in Utrecht,3573 PG ,"€1,325 per month",2 months,For rent,Immediately,Shell,76 m²,Gallery flat,Existing building,2,1.0,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/3b1d1c8e/pal-maleterstraat,,,,,,,,,,,,,,,,,,,,,,,,,,Voordorp en Voorveldsepolder,1325,,76,2,1.0,1.0,A,False,,False
+125,Apartment Burgemeester Reigerstraat in Utrecht,3581 KW ,"€1,550 per month",14-10-2022,For rent,Immediately,Furnished,58 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,1.0,Mechanical ventilation,Present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/49495a3e/burgemeester-reigerstraat,,,Good,229 m³,1900,In the city centre,1,"Fully insulated, high-efficiency glass",Central heating boiler,Central heating boiler,Not present,,No,Public,Temporary rental,"€1,745",No,No,Working,"€5,100",2,,"Remeha HR (Gas, from 2022, Property)",,,Oudwijk,1550,2,58,2,1.0,1.0,,True,,False
+126,Apartment Smakkelaarsveld 23 in Utrecht,3511 EA ,"€1,450 per month",18-10-2022,Under option,Immediately,,50 m²,"Mezzanine, Apartment",Existing building,2,1.0,1.0,"Shower
+ Storage space
+ Toilet",Present,,C,https://www.pararius.com/apartment-for-rent/utrecht/2f0b764d/smakkelaarsveld,,,,150 m³,1975,,1,,,,,,,,,"€1,450",,,,,,,,,,Hoog-Catharijne NS en Jaarbeurs,1450,,50,2,1.0,1.0,C,True,,False
+127,Apartment Bakhuizen van den Brinkstraat in Utrecht,3532 GA ,"€1,150 per month",21-10-2022,For rent,From 01-11-2022,Furnished,35 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,"Shower
+ Toilet",,Present,C,https://www.pararius.com/apartment-for-rent/utrecht/a9b70717/bakhuizen-van-den-brinkstraat,,,Good,88 m³,1950,in a residential area,1,,,,Not present,,No,Paid,Unlimited period,"€1,150",No,No,Working,"€3,450",2,,,,,"Nieuw Engeland, Th. a. Kempisplantsoen en omgeving",1150,2,35,2,1.0,1.0,C,False,,True
+128,House Abstederdijk in Utrecht,3582 BE ,"€1,600 per month",2 weeks,Under option,In consultation,,87 m²,"Corner house, Family home",Existing building,4,2.0,2.0,"Shower
+ Storage space
+ Toilet",Not present,Present,,https://www.pararius.com/house-for-rent/utrecht/405afd42/abstederdijk,,,Reasonable,260 m³,Before 1906,"On a quiet road
+ in a residential area",3,"Double glazing, Roof insulation",Central heating boiler,Central heating boiler,Present,Aangebouwd hout,No,Public,,,,,,,,,,89 m²,achtertuin,"Abstede, Tolsteegsingel e.o.",1600,,87,4,2.0,2.0,,False,45,True
+129,Apartment Oudegracht in Utrecht,3511 AJ ,"€1,100 per month",2 weeks,For rent,From 01-11-2022,Upholstered,50 m²,Gallery flat,Existing building,1,,1.0,,,,,https://www.pararius.com/apartment-for-rent/utrecht/3364a017/oudegracht,,,,,1930,,,,,,,,,,,,,,,,,,,,,"Lange Elisabethstraat, Mariaplaats en omgeving",1100,,50,1,,1.0,,False,,False
+130,Apartment Pablo Picassostraat in Utrecht,3544 NX ,"€1,295 per month",3 weeks,For rent,In consultation,,88 m²,Staircase-accessed flat,New development,3,2.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/e97b0e8d/pablo-picassostraat,€45,,Good,228 m³,2022,,1,,,,,Parkeerplaats,Yes,,,,,,,,,,,,,Het Zand-West,1295,,88,3,2.0,,,False,,False
+131,House Piet Heinstraat 9 in Utrecht,3582 BX ,"€1,675 per month",15-10-2022,For rent,In consultation,Upholstered,70 m²,"Mid-terrace house, Family home",Existing building,2,1.0,,Cable TV,Not present,Present,C,https://www.pararius.com/house-for-rent/utrecht/bd31e1fb/piet-heinstraat,,Monumental building,Good,271 m³,1906,"On a quiet road
+ in a residential area
+ Unobstructed view",2,Double glazing,Central heating boiler,Central heating boiler,,,No,Public,,,,,,,,,,93 m²,achtertuin,"Abstede, Tolsteegsingel e.o.",1675,,70,2,1.0,,C,False,50,True
+132,Apartment Gruttersdijk 27 M in Utrecht,3514 BH ,"€1,400 per month",2 weeks,For rent,From 01-11-2022,Upholstered or furnished,51 m²,Apartment,Existing building,2,1.0,1.0,Toilet,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/a03a96cc/gruttersdijk,,,,,,,,,,,Not present,,No,,Temporary rental,,,,,,,"Minimum of 12, maximum of 24 months",,,,Vogelenbuurt,1400,,51,2,1.0,1.0,,False,,False
+133,Apartment Jutfaseweg 96 in Utrecht,3522 HH ,€700 per month,09-10-2022,For rent,Immediately,Upholstered or furnished,20 m²,Apartment,Existing building,2,1.0,1.0,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/32222706/jutfaseweg,,,,,,,,,,,Not present,,No,,Unlimited period,,,,,,,Minimum of 1 months,,,,Rivierenwijk,700,,20,2,1.0,1.0,,False,,False
+134,Apartment Eschersingel in Utrecht,3544 ML ,"€1,525 per month",21-10-2022,For rent,From 21-11-2022,Upholstered or furnished,100 m²,"Upstairs apartment, Double upstairs apartment",Existing building,3,2.0,1.0,Toilet,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/59c50522/eschersingel,,,Reasonable,270 m³,2000,in a residential area,1,,,,Not present,,No,,Unlimited period,"€1,525",No,No,Working,"€4,575",2,,,,,Het Zand-West,1525,2,100,3,2.0,1.0,,False,,False
+135,Apartment Merelstraat in Utrecht,3514 CL ,"€1,150 per month
+
+Excludes: Service costs",19-10-2022,For rent,From 01-11-2022,Upholstered or furnished,26 m²,Upstairs apartment,Existing building,2,1.0,,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/769db979/merelstraat,€175,,Good,95 m³,1915,,1,,,,,,No,,,,,,,,,,,,,Vogelenbuurt,1150,,26,2,1.0,,,False,,False
+136,Apartment Breedstraat in Utrecht,3512 TX ,"€1,400 per month",2 weeks,For rent,Immediately,,48 m²,Downstairs apartment,Existing building,2,1.0,,,Not present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/ab97c227/breedstraat,,,Good,300 m³,1993,,1,,,,,,No,,,,,,,,,,,,,Breedstraat en Plompetorengracht en omgeving,1400,,48,2,1.0,,,False,,False
+137,Apartment Gruttersdijk 28 H in Utrecht,3514 BH ,"€1,500 per month",2 weeks,For rent,Immediately,Furnished,60 m²,Apartment,Existing building,2,1.0,1.0,"Shower
+ Bath
+ Toilet",Present,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/00ff528d/gruttersdijk,,,,,,,,,,,Not present,,No,,Temporary rental,,,,,,,"Minimum of 12, maximum of 24 months",,,,Vogelenbuurt,1500,,60,2,1.0,1.0,,True,,False
+138,Apartment Wisselstraat in Utrecht,3551 WG ,"€1,600 per month",7 weeks,For rent,Immediately,,47 m²,Upstairs apartment,Existing building,2,1.0,,,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/66348f0e/wisselstraat,,,Good,156 m³,2021-2030,,1,,,,,,No,,,,,,,,,,,,,2e Daalsebuurt en omgeving,1600,,47,2,1.0,,A,False,,False
+139,Apartment Twellosebeeklaan in Utrecht,3521 DR ,"€1,525 per month
+
+Excludes: Service costs",7 weeks,For rent,Immediately,,80 m²,Gallery flat,New development,3,2.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/d176be81/twellosebeeklaan,,,Excellent,230 m³,2021,,1,,,,,Parkeerkelder,Yes,,,,,,,,,,,,,Dichterswijk,1525,,80,3,2.0,,,False,,False
+140,Apartment Londenstraat in Utrecht,3541 CB ,"€1,600 per month",7 weeks,Rented under option,From 01-11-2022,Upholstered,67 m²,"Gallery flat, Apartment",Existing building,3,1.0,,Mechanical ventilation,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/31cf2fa5/londenstraat,,,Good,265 m³,2011-2020,In the city centre,1,,District heating,,Present,Parkeerkelder,Yes,Paid,,,,,,,,,,,,Leidsche Rijn-Centrum,1600,,67,3,1.0,,A,False,,False
+141,Studio Vleutenseweg in Utrecht,3532 HH ,"€1,295 per month
+
+Includes: Electricity, Gas, Internet, Service costs, Water",17-10-2022,For rent,Immediately,Furnished,20 m²,Studio,Existing building,1,,,,,Not present,,https://www.pararius.com/studio-for-rent/utrecht/a02ba2e8/vleutenseweg,,,,,,"In the city centre
+ in a residential area",1,,,,Not present,,No,,,"€2,590",No,No,,,1,,,,,"Nieuw Engeland, Th. a. Kempisplantsoen en omgeving",1295,1,20,1,,,,False,,False
+142,Studio Berlijnplein in Utrecht,3541 CM ,"€633 per month
+
+Excludes: Service costs",3+ months,For rent,Immediately,Upholstered,30 m²,"Studio, Apartment",New development,1,,1.0,"Lift
+ Shower
+ Toilet",,Present,,https://www.pararius.com/studio-for-rent/utrecht/2c891cec/berlijnplein,€327,,,,2022,in a residential area,1,,"District heating, Partial floor heating",District heating,Not present,,No,Garage,,"€1,500",No,No,Working,"€2,000",2,,,,,Leidsche Rijn-Centrum,633,2,30,1,,1.0,,False,,True
+143,Apartment Kromme Nieuwegracht in Utrecht,3512 HL ,"€1,650 per month",13-10-2022,Under option,From 01-11-2022,Upholstered,60 m²,"Upstairs apartment, Apartment",Existing building,2,1.0,,,,Not present,,https://www.pararius.com/apartment-for-rent/utrecht/df2a0d25/kromme-nieuwegracht,,Monumental building,Good,150 m³,1450,"On a quiet road
+ On a waterway
+ In the city centre
+ Unobstructed view",1,,,,Not present,,No,Public,Temporary rental,"€3,300",No,No,Working,"€4,950",,,,,,Nieuwegracht-Oost,1650,,60,2,1.0,,,False,,False
+144,House Jasmijnstraat in Utrecht,3551 SP ,"€1,650 per month",5 weeks,For rent,In consultation,,83 m²,"Mid-terrace house, Family home",Existing building,6,2.0,1.0,"Shower
+ Storage space
+ Toilet
+ Laundry room",Not present,Present,F,https://www.pararius.com/house-for-rent/utrecht/ad88ac23/jasmijnstraat,,,Good,185 m³,1910,In the city centre,2,Partial double glazing,Central heating boiler,Central heating boiler,Present,Aangebouwd steen,No,Paid,,,,,,,,,"HR (Gas, Property)",,achtertuin,2e Daalsebuurt en omgeving,1650,,83,6,2.0,1.0,F,False,5,True
+145,House Bollenhofsestraat in Utrecht,3572 VH ,"€1,500 per month",14-10-2022,For rent,In consultation,,72 m²,"Corner house, Family home",Existing building,3,2.0,1.0,"Shower
+ Toilet",Not present,Not present,,https://www.pararius.com/house-for-rent/utrecht/49579329/bollenhofsestraat,,,Good,200 m³,1906,"On a quiet road
+ in a residential area",3,Fully insulated,Central heating boiler,Central heating boiler,,,No,Public,,,,,,,,,,64 m²,,Wittevrouwen,1500,,72,3,2.0,1.0,,False,,False
+146,Apartment Winklerlaan in Utrecht,3571 KE ,"€1,350 per month",2 weeks,For rent,From 01-11-2022,Shell,85 m²,Gallery flat,Existing building,3,3.0,,,Present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/56eddceb/winklerlaan,,,,,,,,,,,,,,,,,,,,,,,,,,Tuindorp-Oost,1350,,85,3,3.0,,A,True,,False
+147,Apartment Obrechtstraat 4 in Utrecht,3572 EE ,"€1,495 per month",13-10-2022,Under option,From 01-11-2022,Shell,70 m²,"Downstairs apartment, Apartment",Existing building,2,1.0,1.0,"Mechanical ventilation
+ Shower
+ Toilet",Not present,Present,B,https://www.pararius.com/apartment-for-rent/utrecht/5bb3b77a/obrechtstraat,,,Excellent,196 m³,1928,"in a residential area
+ Near public transportation",1,,,,,,Yes,Paid,,"€2,990",,,,,,,,,achtertuin,Wittevrouwen,1495,,70,2,1.0,1.0,B,False,,True
+148,Apartment Europaplein 859 in Utrecht,3526 WS ,"€1,150 per month",11-10-2022,For rent,From 14-11-2022,Shell,45 m²,Gallery flat,Existing building,2,1.0,1.0,Lift,Not present,Not present,A,https://www.pararius.com/apartment-for-rent/utrecht/432542fa/europaplein,,,,,2007,,,,,,,,Yes,,,,,,,,,Minimum of 12 months,,,,Transwijk-Zuid,1150,,45,2,1.0,1.0,A,False,,False
+149,House Singelstraat in Utrecht,3513 BM ,"€1,695 per month
+
+Includes: Service costs",14-10-2022,For rent,Immediately,Furnished,70 m²,"Mid-terrace house, Family home",Existing building,2,1.0,1.0,,,,D,https://www.pararius.com/house-for-rent/utrecht/96db807c/singelstraat,,,,,1910,,,,,,,,No,,,,,,,,,,,,,Pijlsweerd-Zuid,1695,,70,2,1.0,1.0,D,False,,False
+150,Apartment Koningslaan in Utrecht,3583 GB ,"€1,250 per month
+
+Includes: Service costs",12-10-2022,For rent,From 01-12-2022,Upholstered,50 m²,"Gallery flat, Apartment",Existing building,2,1.0,1.0,"Shower
+ Toilet",,,,https://www.pararius.com/apartment-for-rent/utrecht/aef46284/koningslaan,,,,,,,,,,,,,No,,,,,,,,,,,,,Wilhelminapark en omgeving,1250,,50,2,1.0,1.0,,False,,False
+151,Apartment Bloemstraat in Utrecht,3581 WE ,"€1,295 per month",3 weeks,Rented under option,From 01-11-2022,Upholstered,45 m²,Downstairs apartment,Existing building,2,1.0,1.0,,Not present,Present,D,https://www.pararius.com/apartment-for-rent/utrecht/dff215e0/bloemstraat,,,,,,,,,,,Not present,,No,,Unlimited period,,,,,,,Minimum of 12 months,,,,Oudwijk,1295,,45,2,1.0,1.0,D,False,12,True
+152,Apartment 2e Spechtstraat in Utrecht,3514 TW ,"€1,625 per month",19-10-2022,For rent,From 01-12-2022,Upholstered,110 m²,"Double ground-floor flat, Main floor",Existing building,3,2.0,1.0,"Bath
+ Shower
+ Toilet",Present,Present,,https://www.pararius.com/apartment-for-rent/utrecht/a17fb00d/2e-spechtstraat,,,,330 m³,1904,"On a quiet road
+ In the city centre",2,,,,,,,,,"€1,625",,,,,,,,110 m²,achtertuin,Vogelenbuurt,1625,,110,3,2.0,1.0,,True,12,True

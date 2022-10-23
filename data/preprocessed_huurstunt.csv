@@ -1,0 +1,41 @@
+,address,postcode,rental_price,service_costs,living_area,rooms,bedrooms,bathrooms,balcony,garden,energielabel,url,garden_size,Deposit
+0,Studio Limapad 2-802,3584SR,520,,22,2,1.0,2.0,False,False,,https://www.huurstunt.nl/studio/huren/utrecht/limapad-2-802/46252945,,
+1,Appartement Henriëtte Roland Holststraat,3511MT,1595,,70,3,2.0,0.0,False,False,B,https://www.huurstunt.nl/appartement/huren/utrecht/henriette-roland-holststraat/46282574,,1.595
+2,Appartement Rapenburchdreef,3562HA,1000,,55,3,,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/rapenburchdreef/46283427,,
+3,Studio Vleutenseweg,3532HH,1295,,20,1,0.0,0.0,False,False,,https://www.huurstunt.nl/studio/huren/utrecht/vleutenseweg/46284306,,2.590
+4,Appartement Merelstraat,3514CL,1150,175,26,2,1.0,0.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/merelstraat/46285192,,
+5,Appartement Hebe Kohlbruggeweg,3527MD,1500,0,67,2,1.0,1.0,False,False,A++,https://www.huurstunt.nl/appartement/huren/utrecht/hebe-kohlbruggeweg/46284924,,3000
+6,Appartement Schoutenstraat,3512GB,1295,,60,2,1.0,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/schoutenstraat/46283520,,
+7,Kamer Oudegracht,3511AB,730,315,24,1,1.0,1.0,False,False,,https://www.huurstunt.nl/kamer/huren/utrecht/oudegracht/46285644,,1500
+8,Appartement Smakkelaarsveld,3511EA,1450,,50,2,1.0,1.0,True,False,C,https://www.huurstunt.nl/appartement/huren/utrecht/smakkelaarsveld/46284647,,1450
+9,Huurwoning 2E Spechtstraat,3514TW,1625,0,110,3,2.0,1.0,True,True,,https://www.huurstunt.nl/huurwoning/huren/utrecht/2e-spechtstraat/46284970,,1625
+10,Appartement Trumanlaan,3527BM,1530,,75,3,2.0,2.0,True,False,B,https://www.huurstunt.nl/appartement/huren/utrecht/trumanlaan/46270588,,2.000
+11,Appartement Obrechtstraat,3572EE,1495,,70,2,1.0,1.0,False,True,B,https://www.huurstunt.nl/appartement/huren/utrecht/obrechtstraat/46283512,gelegen op het zuidoosten),2.990
+12,Bedrijfsruimte Spoordijk,3534BD,270,,30,,0.0,,False,False,,https://www.huurstunt.nl/bedrijfsruimte/huren/utrecht/spoordijk/46273644,,
+13,Appartement Hekelsteeg,3511AK,1325,,51,2,1.0,1.0,False,True,D,https://www.huurstunt.nl/appartement/huren/utrecht/hekelsteeg/46285436,,1350
+14,Huurwoning Piet Heinstraat,3582BX,1675,,70,2,1.0,0.0,False,True,C,https://www.huurstunt.nl/huurwoning/huren/utrecht/piet-heinstraat/46279161,,1.675
+15,Appartement Nachtegaalstraat,3581AK,1050,,38,2,,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/nachtegaalstraat/46271068,,
+16,Garage Annastraat,3512GR,199,,7,1,0.0,,False,False,,https://www.huurstunt.nl/garage/huren/utrecht/annastraat/46218657,,
+17,Huurwoning Monarchvlinderlaan,3544DC,1295,,56,3,1.0,1.0,False,False,A,https://www.huurstunt.nl/huurwoning/huren/utrecht/monarchvlinderlaan/46280914,,2590
+18,Appartement Peltlaan,3527EB,1300,,72,3,2.0,1.0,False,False,E,https://www.huurstunt.nl/appartement/huren/utrecht/peltlaan/46280915,,3500
+19,Appartement Weerdsingel Oostzijde,3514AG,1500,,75,2,1.0,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/weerdsingel-oostzijde/46286016,,1.800
+20,Appartement Wijde Begijnestraat,3512AW,1400,,60,2,1.0,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/wijde-begijnestraat/46282811,,2.800
+21,Appartement Twijnstraat,3511ZH,1050,,36,2,,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/twijnstraat/46265769,,
+22,Kamer Nachtegaalstraat,3581AN,400,,11,1,,0.0,False,False,,https://www.huurstunt.nl/kamer/huren/utrecht/nachtegaalstraat/46280879,,
+23,Appartement Maliestraat,3581SH,1745,150,60,2,1.0,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/maliestraat/46284126,,3.490
+24,Appartement Beneluxlaan,3527HX,1395,,75,3,2.0,1.0,True,False,F,https://www.huurstunt.nl/appartement/huren/utrecht/beneluxlaan/46283045,,2.790
+25,Appartement Vleutenseweg,3532HL,1650,,47,2,1.0,1.0,True,False,,https://www.huurstunt.nl/appartement/huren/utrecht/vleutenseweg/46284672,,1.650
+27,Appartement Rhodosdreef,3562TL,1495,,82,3,2.0,1.0,True,False,,https://www.huurstunt.nl/appartement/huren/utrecht/rhodosdreef/46282233,,
+28,Studio Ridderschapstraat,3512CN,1250,,41,1,1.0,1.0,True,False,,https://www.huurstunt.nl/studio/huren/utrecht/ridderschapstraat/46277976,,
+29,Huurwoning Morelstraat,3552GM,1495,,55,2,1.0,,False,False,F,https://www.huurstunt.nl/huurwoning/huren/utrecht/morelstraat/46281396,,
+30,Kamer St. Janshovenstraat,3572RA,400,,11,1,,,False,False,,https://www.huurstunt.nl/kamer/huren/utrecht/st-janshovenstraat/46284478,,
+31,Appartement Van Eysingalaan,3527VV,1135,,65,4,3.0,1.0,True,False,,https://www.huurstunt.nl/appartement/huren/utrecht/van-eysingalaan/46274157,,
+32,Garage Ina Boudier-Bakkerlaan,3582VA,140,,15,1,0.0,0.0,False,False,,https://www.huurstunt.nl/garage/huren/utrecht/ina-boudier-bakkerlaan/46052731,,
+33,Appartement Nachtegaalstraat,3581AB,1395,,65,2,1.0,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/nachtegaalstraat/46284489,,3290
+34,Studio Europaplein,3526WP,1100,,29,1,0.0,1.0,False,False,,https://www.huurstunt.nl/studio/huren/utrecht/europaplein/46283821,,
+35,Studio Berlijnplein,3541CM,633,327,30,1,0.0,1.0,False,False,,https://www.huurstunt.nl/studio/huren/utrecht/berlijnplein/46275346,,1.500
+36,Appartement Billitonkade,3531TL,1265,,40,2,1.0,,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/billitonkade/46189717,,
+37,Appartement Nieuwegracht,3512LS,1300,,44,2,1.0,,False,False,A,https://www.huurstunt.nl/appartement/huren/utrecht/nieuwegracht/46211525,,1.300
+38,Appartement Catharijnesingel,3511GM,1600,250,32,2,1.0,0.0,False,False,D,https://www.huurstunt.nl/appartement/huren/utrecht/catharijnesingel/46279713,,3.700
+39,Appartement Jansveld,3512BH,1000,,45,2,,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/jansveld/46264039,,
+40,Appartement Oudegracht,3511AJ,1100,,50,1,0.0,1.0,False,False,,https://www.huurstunt.nl/appartement/huren/utrecht/oudegracht/46281995,,

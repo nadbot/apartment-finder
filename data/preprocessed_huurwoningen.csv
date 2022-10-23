@@ -1,0 +1,65 @@
+,address,postcode,rental_price,service_costs,living_area,rooms,bedrooms,bathrooms,balcony,garden,energielabel,url,garden_size,Deposit,Duration
+0,Appartement Nieuwegracht in Utrecht,3512 LV ,1350,,45,2.0,1.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1320085/nieuwegracht/,,,
+1,Appartement Eschersingel in Utrecht,3544 ML ,1525,,100,3.0,2.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1320348/eschersingel/,,,
+2,Appartement Rubicondreef in Utrecht,3561 JH ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1316982/rubicondreef/,,,Minimaal 12 maanden
+3,Appartement Oudegracht in Utrecht,3511 AJ ,1100,,50,,,,False,False,,https://www.huurwoningen.nl/huren/utrecht/1317983/oudegracht/,,,
+4,Appartement Faustdreef in Utrecht,3561 LP ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1309070/faustdreef/,,,Minimaal 12 maanden
+5,Appartement Jutfaseweg in Utrecht,3522 HH ,700,,20,2.0,,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1318123/jutfaseweg/,,,
+6,Appartement Grifthoek in Utrecht,3514 JJ ,1360,50,60,1.0,1.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1317000/grifthoek/,,,
+7,Appartement Faustdreef in Utrecht,3561 LD ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1319924/faustdreef/,,,Minimaal 12 maanden
+8,Appartement Loeff Berchmakerstraat in Utrecht,3512 TD ,1095,,37,2.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1319452/loeff-berchmakerstraat/,,,
+9,Appartement Van Marumstraat in Utrecht,3514 HR ,1550,,70,3.0,2.0,1.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1319362/van-marumstraat/,,,
+10,Huis Morelstraat in Utrecht,3552 GM ,1495,,55,1.0,,,False,True,,https://www.huurwoningen.nl/huren/utrecht/1317588/morelstraat/,,,
+11,Appartement Hekelsteeg in Utrecht,3511 AK ,1325,,51,2.0,1.0,1.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1320065/hekelsteeg/,,,
+12,Appartement Auriollaan in Utrecht,3527 EV ,1450,45,76,3.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1316983/auriollaan/,,,Minimaal 12 maanden
+13,Appartement Faustdreef in Utrecht,3561 LN ,1395,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1293404/faustdreef/,,,Minimaal 12 maanden
+14,Studio Vleutenseweg in Utrecht,3532 HH ,1295,,20,1.0,,0.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1319471/vleutenseweg/,,,
+15,Appartement Maria van Reedestraat in Utrecht,3515 XJ ,1650,,75,8.0,3.0,0.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1319560/maria-van-reedestraat/,,,
+16,Appartement Monnetlaan in Utrecht,3527 GN ,1450,45,76,3.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1315825/monnetlaan/,,,Minimaal 12 maanden
+17,Appartement Kromme Nieuwegracht in Utrecht,3512 HC ,1695,,100,3.0,2.0,1.0,True,False,,https://www.huurwoningen.nl/huren/utrecht/1318920/kromme-nieuwegracht/,,,
+18,Appartement Faustdreef in Utrecht,3561 LD ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1308686/faustdreef/,,,Minimaal 12 maanden
+19,Appartement Peltlaan in Utrecht,3527 EB ,1300,,72,3.0,2.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1319409/peltlaan/,,,
+20,Appartement Trumanlaan in Utrecht,3527 BN ,1530,,75,3.0,2.0,2.0,True,False,,https://www.huurwoningen.nl/huren/utrecht/1311204/trumanlaan/,,,
+21,Appartement Faustdreef in Utrecht,3561 LC ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1303666/faustdreef/,,,Minimaal 12 maanden
+22,Appartement Karel Doormanlaan in Utrecht,3572 NA ,1750,,100,3.0,2.0,1.0,True,False,,https://www.huurwoningen.nl/huren/utrecht/1319875/karel-doormanlaan/,,,
+23,Appartement Marshalllaan in Utrecht,3527 TJ ,725,45,41,2.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1316135/marshalllaan/,,,Minimaal 12 maanden
+24,Appartement Staalstraat in Utrecht,3572 RK ,1275,,65,3.0,1.0,1.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1316749/staalstraat/,,,
+25,Appartement Weerdsingel O.Z. in Utrecht,3514 AG ,1500,,75,2.0,1.0,,False,False,,https://www.huurwoningen.nl/huren/utrecht/1320429/weerdsingel-o-z/,,€ 1800,
+26,Appartement Van Hoornekade in Utrecht,3554 AT ,1100,,90,4.0,2.0,0.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1320362/van-hoornekade/,,,
+27,Appartement Marshalllaan in Utrecht,3527 TW ,1325,45,78,4.0,,,False,True,,https://www.huurwoningen.nl/huren/utrecht/1311190/marshalllaan/,30,,Minimaal 12 maanden
+28,Appartement 2e Spechtstraat in Utrecht,3514 TW ,1625,,110,3.0,2.0,1.0,True,True,,https://www.huurwoningen.nl/huren/utrecht/1319852/2e-spechtstraat/,12,,
+29,Appartement Burgemeester van Tuyllkade in Utrecht,3553 AM ,1200,,60,2.0,1.0,1.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1318915/burgemeester-van-tuyllkade/,,,
+30,Appartement Vleutenseweg in Utrecht,3532 HL ,1650,,47,2.0,1.0,1.0,True,True,,https://www.huurwoningen.nl/huren/utrecht/1319692/vleutenseweg/,,,
+31,Appartement Tannhäuserdreef in Utrecht,3561 HL ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1300225/tannhaeuserdreef/,,,Minimaal 12 maanden
+32,Appartement Bakhuizen van den Brinkstraat in Utrecht,3532 GA ,1150,,35,2.0,1.0,1.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1320405/bakhuizen-van-den-brinkstraat/,,,
+33,Appartement Kanaalweg in Utrecht,3533 HH ,1095,55,38,2.0,1.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1317793/kanaalweg/,,,
+34,Appartement Wijde Begijnestraat in Utrecht,3512 AW ,1400,,60,2.0,1.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1318446/wijde-begijnestraat/,,,
+35,Appartement 2e Atjehstraat in Utrecht,3531 SR ,1495,,60,2.0,1.0,0.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1320500/2e-atjehstraat/,9,,
+36,Appartement Nachtegaalstraat in Utrecht,3581 AB ,1395,,65,2.0,1.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1319584/nachtegaalstraat/,,,
+37,Appartement Faustdreef in Utrecht,3561 LR ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1316397/faustdreef/,,,Minimaal 12 maanden
+38,Appartement Faustdreef in Utrecht,3561 LP ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1302915/faustdreef/,,,Minimaal 12 maanden
+39,Huis Piet Heinstraat in Utrecht,3582 BX ,1675,,70,2.0,1.0,0.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1318951/piet-heinstraat/,50,,
+40,Appartement Grifthoek in Utrecht,3514 JJ ,1569,55,80,3.0,2.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1319857/grifthoek/,,,
+41,Appartement Smakkelaarsveld in Utrecht,3511 EA ,1450,,50,2.0,1.0,1.0,True,False,,https://www.huurwoningen.nl/huren/utrecht/1319700/smakkelaarsveld/,,,
+42,Appartement Schoutenstraat in Utrecht,3512 GB ,1295,,60,2.0,1.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1318939/schoutenstraat/,,,
+43,Appartement Merelstraat in Utrecht,3514 CL ,1150,175,26,2.0,1.0,0.0,True,False,,https://www.huurwoningen.nl/huren/utrecht/1319927/merelstraat/,,,
+44,Appartement Marshalllaan in Utrecht,3527 TV ,1450,45,78,3.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1316551/marshalllaan/,,,Minimaal 12 maanden
+45,Huis Korenbloemstraat in Utrecht,3551 GM ,1750,,85,4.0,2.0,2.0,False,True,,https://www.huurwoningen.nl/huren/utrecht/1320406/korenbloemstraat/,,,
+46,Appartement Loeff Berchmakerstraat in Utrecht,3512 TC ,1050,,35,2.0,,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1318124/loeff-berchmakerstraat/,,,
+47,Appartement Faustdreef in Utrecht,3561 LK ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1302923/faustdreef/,,,Minimaal 12 maanden
+48,Appartement Marshalllaan in Utrecht,3527 TV ,1395,45,78,3.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1306144/marshalllaan/,,,Minimaal 12 maanden
+49,Appartement Marshalllaan in Utrecht,3527 TW ,925,45,41,2.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1305939/marshalllaan/,,,Minimaal 12 maanden
+50,Huis Wijde Doelen in Utrecht,3512 XN ,1495,,84,3.0,2.0,1.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1319641/wijde-doelen/,,,
+51,Appartement Marshalllaan in Utrecht,3527 TW ,1450,45,78,3.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1316502/marshalllaan/,,,Minimaal 12 maanden
+52,Appartement Catharijnesingel in Utrecht,3511 GM ,1600,250,32,2.0,1.0,0.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1316479/catharijnesingel/,,,
+53,Appartement Marshalllaan in Utrecht,3527 TJ ,1395,45,78,3.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1306646/marshalllaan/,,,Minimaal 12 maanden
+54,Appartement Tannhäuserdreef in Utrecht,3561 HS ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1298335/tannhaeuserdreef/,,,Minimaal 12 maanden
+55,Appartement Faustdreef in Utrecht,3561 LC ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1307263/faustdreef/,,,Minimaal 12 maanden
+56,Appartement Monnetlaan in Utrecht,3527 GN ,1350,45,57,3.0,,,False,True,,https://www.huurwoningen.nl/huren/utrecht/1315000/monnetlaan/,30,,Minimaal 12 maanden
+57,Appartement Marshalllaan in Utrecht,3527 TH ,1450,45,78,3.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1311397/marshalllaan/,,,Minimaal 12 maanden
+58,Appartement Breedstraat in Utrecht,3512 TX ,1400,,48,2.0,1.0,0.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1317560/breedstraat/,,,
+59,Appartement Faustdreef in Utrecht,3561 LR ,1395,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1287249/faustdreef/,,,Minimaal 12 maanden
+60,Appartement Tannhäuserdreef in Utrecht,3561 HK ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1290023/tannhaeuserdreef/,,,Minimaal 12 maanden
+61,Appartement Tannhäuserdreef in Utrecht,3561 HL ,1450,63,80,4.0,,,True,False,,https://www.huurwoningen.nl/huren/utrecht/1311189/tannhaeuserdreef/,,,Minimaal 12 maanden
+62,Appartement Borneostraat in Utrecht,3531 PH ,1300,,60,2.0,,,False,False,,https://www.huurwoningen.nl/huren/utrecht/1302439/borneostraat/,,,
+63,Appartement Van Sijpesteijnkade in Utrecht,3521 AH ,950,,43,2.0,1.0,0.0,False,False,,https://www.huurwoningen.nl/huren/utrecht/1302111/van-sijpesteijnkade/,,,
