@@ -5,10 +5,10 @@ import pandas as pd
 
 from find_best import find_best_items
 from preprocess_data import preprocess_funda, preprocess_pararius, preprocess_huurwoningen, preprocess_huurstunt
-from scraper_funda import scrape_funda
-from scraper_huurstunt import scrape_huurstunt
-from scraper_huurwoningen import scrape_huurwoningen
-from scraper_pararius import scrape_pararius
+from scraper_funda import ScraperFunda
+from scraper_huurstunt import ScraperHuurstunt
+from scraper_huurwoningen import ScraperHuurwoningen
+from scraper_pararius import ScraperPararius
 
 energyclasses = defaultdict(int)
 energyclasses['A+++'] = 1
@@ -26,10 +26,14 @@ energyclasses_reversed = {a[1]: a[0] for a in energyclasses.items()}
 
 def pipeline(threshold_good_apartment=2):
     rerun_all = save = False
-    df_funda = scrape_funda(rerun_all)
-    df_pararius = scrape_pararius(rerun_all)
-    df_huurwoningen = scrape_huurwoningen(rerun_all)
-    df_huurstunt = scrape_huurstunt(rerun_all)
+    scraper_funda = ScraperFunda()
+    df_funda = scraper_funda.scrape(rerun_all)
+    scraper_pararius = ScraperPararius()
+    df_pararius = scraper_pararius.scrape(rerun_all)
+    scraper_huurwoningen = ScraperHuurwoningen()
+    df_huurwoningen = scraper_huurwoningen.scrape(rerun_all)
+    scraper_huurstunt = ScraperHuurstunt()
+    df_huurstunt = scraper_huurstunt.scrape(rerun_all)
     all_changed = []
     if df_funda is not None:
         df_funda = preprocess_funda(df_funda, save=save)

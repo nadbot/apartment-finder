@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from scraper_base import ScraperBase
 
 headers_pararius = {
@@ -45,7 +47,8 @@ class ScraperPararius(ScraperBase):
     def get_apartment_details(self, apartment_url, data):
         data_dict = {
             'address': data.find('h1', {'class': 'listing-detail-summary__title'}).text.split('For rent:')[1].strip(),
-            'postcode': data.find('div', {'class': 'listing-detail-summary__location'}).text.strip()
+            'postcode': data.find('div', {'class': 'listing-detail-summary__location'}).text.strip(),
+            'time': datetime.utcnow()
         }
         # squaremeter = data.find('span', {'class': 'kenmerken-highlighted__value fd-text--nowrap'}).text.strip()
         datasheets = data.find_all('dl', {'class': 'listing-features__list'})

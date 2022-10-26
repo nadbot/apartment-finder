@@ -12,20 +12,13 @@ client = discord.Client(intents=intents)
 running = False
 next_observation = datetime.utcnow()
 starttime = datetime.utcnow()
-background_task_time = 60
+background_task_time = 1800
 threshold_good_apartment = 2
 
 
 @client.event
 async def on_ready():
     print(f'{client.user} has connected to Discord!')
-
-
-best_results_df = pd.read_csv('data/best_results.csv')
-best_results_df = best_results_df.loc[:,
-                  ['postcode_beginning', 'rental_price', 'living_area', 'living_area_stddev_ratio', 'price_pm',
-                   'price_pm_stddev_ratio', 'rooms', 'energielabel', 'energie_class_stddev_ratio', 'url']]
-
 
 @client.event
 async def on_message(message):
@@ -35,7 +28,6 @@ async def on_message(message):
     # we do not want the bot to reply to itself
     if message.author == client.user:
         return
-
     # TODO improve commands: commands lower and upper case working, make list clickable (show recommendations?)
     # TODO put commands inside methods
     channel = message.channel
@@ -46,6 +38,12 @@ async def on_message(message):
                                    '')  # TODO need command for starting/stopping scraper
     if message.content.startswith('!best'):
         await channel.send('Here are the 5 best apartments in Utrecht:')
+        best_results_df = pd.read_csv('data/best_results.csv')
+        best_results_df = best_results_df.loc[:, ['postcode_beginning', 'rental_price', 'living_area',
+                                                  'living_area_stddev_ratio', 'price_pm', 'price_pm_stddev_ratio',
+                                                  'rooms',
+                                                  'energielabel', 'energie_class_stddev_ratio', 'url']]
+
         await send_new_apartments(channel, best_results_df)
     if message.content.startswith('!status'):
         uptime = runtime()

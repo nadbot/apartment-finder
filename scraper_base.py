@@ -45,7 +45,7 @@ class ScraperBase:
     def get_apartment_details(self, apartment_url, data):  # TODO
         return {}
 
-    def get_all_apartment_data(self, urls):
+    def get_all_apartment_data(self, urls, rerun_all=False):
         all_data = []
         for apartment_url in tqdm(urls):
             data = self.get_data(apartment_url, 'html')
@@ -58,7 +58,7 @@ class ScraperBase:
         if len(all_data) == 0:
             return
         df = pd.DataFrame(all_data)
-        if not os.path.isfile(self.csv_file):
+        if rerun_all or not os.path.isfile(self.csv_file):
             df.to_csv(self.csv_file, index=False)
         else:
             df.to_csv(self.csv_file, mode='a', header=False, index=False)
@@ -81,5 +81,5 @@ class ScraperBase:
     def scrape(self, rerun_all=False):
         apartments_to_scrape = self.update_apartments(rerun_all)
         print(f'Updating {len(apartments_to_scrape)} entries')
-        df = self.get_all_apartment_data(apartments_to_scrape)
+        df = self.get_all_apartment_data(apartments_to_scrape, rerun_all)
         return df

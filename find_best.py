@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 
 
@@ -24,15 +26,16 @@ def find_best_items(df, df_all_items, save=False, threshold_good_apartment=2):
     df_best = df_res.loc[mask_price_pm | mask_living_area | mask_bedrooms | mask_rooms | mask_energy]
     # sum them all to get the combined ranking
     # TODO maybe have a weight for each?
-    df_best[
-        'ranking'] = df_best.living_area_stddev_ratio - df_best.price_pm_stddev_ratio - df_best.\
+    df_best['ranking'] = df_best.living_area_stddev_ratio - df_best.price_pm_stddev_ratio - df_best.\
         energie_class_stddev_ratio + df_best.rooms_stddev_ratio
     # df_best_sorted = df_best.sort_values(by=['living_area_stddev_ratio', 'price_pm_stddev_ratio',
     #                                      'energie_class_stddev_ratio', 'bedrooms_stddev_ratio', 'rooms_stddev_ratio'],
     #                                      ascending=[False, True, True, False, False])  # best values should be first
     df_best_sorted = df_best.sort_values(by='ranking', ascending=False)
-    if save:
-        df_best_sorted.to_csv('best_results.csv')
+    if not os.path.isfile(all_apartments := 'data/best_results.csv'):
+        df_best_sorted.to_csv(all_apartments)
+    else:
+        df_best_sorted.to_csv(all_apartments, mode='a', header=False, index=False)
     return df_best_sorted
 
 

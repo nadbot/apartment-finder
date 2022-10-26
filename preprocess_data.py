@@ -1,3 +1,4 @@
+import os
 from collections import defaultdict
 
 import numpy as np
@@ -49,13 +50,17 @@ def preprocess_funda(df=None, save=False):
     df['balcony'] = df['Balkon/dakterras'].isin(['Dakterras aanwezig', 'Balkon aanwezig'])
     df['garden'] = df['Tuin'].isin(['Zonneterras', 'Achtertuin'])
     df['garden_size'] = df['Achtertuin'].str.extract(r'([0-9.,]+)')
-    if save:
-        df.to_csv('preprocessed_all_data_funda.csv')
+    if not os.path.isfile(preprocessed_all_data := 'data/preprocessed_all_data_funda.csv'):
+        df.to_csv(preprocessed_all_data)
+    else:
+        df.to_csv(preprocessed_all_data, mode='a', header=False, index=False)
     keep_cols = ['address', 'postcode', 'rental_price', 'service_costs', 'living_area', 'rooms', 'bedrooms',
                  'bathrooms', 'balcony', 'garden', 'energielabel', 'url', 'garden_size']
     df = df.loc[:, keep_cols]
-    if save:
-        df.to_csv('preprocessed_funda.csv')
+    if not os.path.isfile(preprocessed := 'data/preprocessed_funda.csv'):
+        df.to_csv(preprocessed)
+    else:
+        df.to_csv(preprocessed, mode='a', header=False, index=False)
     return df
 
 
@@ -85,16 +90,20 @@ def preprocess_pararius(df=None, save=False):
     df['garden_size'] = df['Garden'].str.extract(r'([0-9.,]+)')
     df['Deposit'] = df['Deposit'].str.replace(r'[.,]', '')  # convert the comma value to .
     df['Income requirement'] = df['Income requirement'].str.replace(r'[.,]', '')  # convert the comma value to .
-    if save:
-        df.to_csv('preprocessed_all_data_pararius.csv')
+    if not os.path.isfile(preprocessed := 'data/preprocessed_all_data_parariuss.csv'):
+        df.to_csv(preprocessed)
+    else:
+        df.to_csv(preprocessed, mode='a', header=False, index=False)
     keep_cols = ['address', 'postcode', 'rental_price', 'service_costs', 'living_area', 'rooms', 'bedrooms',
                  'bathrooms', 'balcony', 'garden', 'energielabel', 'url', 'garden_size',
                  # additional fields
                  'Rental agreement', 'Deposit', 'Income requirement', 'Maximum number of residents', 'Duration']
 
     df = df.loc[:, keep_cols]
-    if save:
-        df.to_csv('preprocessed_pararius.csv')
+    if not os.path.isfile(preprocessed := 'data/preprocessed_pararius.csv'):
+        df.to_csv(preprocessed)
+    else:
+        df.to_csv(preprocessed, mode='a', header=False, index=False)
     return df
 
 
@@ -123,16 +132,20 @@ def preprocess_huurwoningen(df=None, save=False):
     df['garden'] = 'Aanwezig' in df['Tuin']
     df['Deposit'] = df['Borg'].str.replace(r'[.,]', '')  # convert the comma value to .
     df['Duration'] = df['Looptijd']
-    if save:
-        df.to_csv('preprocessed_all_data_huurwoningen.csv')
+    if not os.path.isfile(preprocessed := 'data/preprocessed_all_data_huurwoningen.csv'):
+        df.to_csv(preprocessed)
+    else:
+        df.to_csv(preprocessed, mode='a', header=False, index=False)
     keep_cols = ['address', 'postcode', 'rental_price', 'service_costs', 'living_area', 'rooms', 'bedrooms',
                  'bathrooms', 'balcony', 'garden', 'energielabel', 'url', 'garden_size',
                  # additional fields
                  'Deposit', 'Duration']
 
     df = df.loc[:, keep_cols]
-    if save:
-        df.to_csv('preprocessed_huurwoningen.csv')
+    if not os.path.isfile(preprocessed := 'data/preprocessed_huurwoningen.csv'):
+        df.to_csv(preprocessed)
+    else:
+        df.to_csv(preprocessed, mode='a', header=False, index=False)
     return df
 
 
@@ -164,8 +177,10 @@ def preprocess_huurstunt(df=None, save=False):
     df['garden'] = df['Tuin:'] == df['Tuin:']  # any value is ok
     df['Deposit'] = df['Waarborgsom:'].str.extract(r'([0-9.,]+)').replace(r'[.,]', '')
     # df['Duration'] = df['Looptijd']
-    if save:
-        df.to_csv('preprocessed_all_data_huurstunt.csv')
+    if not os.path.isfile(preprocessed := 'data/preprocessed_all_data_huurstunt.csv'):
+        df.to_csv(preprocessed)
+    else:
+        df.to_csv(preprocessed, mode='a', header=False, index=False)
     keep_cols = ['address', 'postcode', 'rental_price', 'service_costs', 'living_area', 'rooms', 'bedrooms',
                  'bathrooms', 'balcony', 'garden', 'energielabel', 'url', 'garden_size',
                  # additional fields
@@ -173,8 +188,10 @@ def preprocess_huurstunt(df=None, save=False):
 
     df = df.loc[:, keep_cols]
     df = df.loc[df['living_area'].astype(int) > 0]
-    if save:
-        df.to_csv('preprocessed_huurstunt.csv')
+    if not os.path.isfile(preprocessed := 'data/preprocessed_huurstunt.csv'):
+        df.to_csv(preprocessed)
+    else:
+        df.to_csv(preprocessed, mode='a', header=False, index=False)
     return df
 
 
@@ -189,8 +206,10 @@ def merge_apartments(df_funda, df_pararius, df_huurwoningen, df_huurstunt, save=
         df_huurstunt = pd.read_csv('data/preprocessed_huurstunt.csv')
     df_all = pd.concat([df_funda, df_pararius, df_huurwoningen, df_huurstunt])
     df_all = df_all.drop(columns=['Unnamed: 0'], axis=1)
-    if save:
-        df_all.to_csv('data/all_apartments.csv', index=False)
+    if not os.path.isfile(all_apartments := 'data/all_apartments.csv'):
+        df_all.to_csv(all_apartments)
+    else:
+        df_all.to_csv(all_apartments, mode='a', header=False, index=False)
     return df_all
 
 
@@ -212,15 +231,19 @@ def get_average_data(df_data, save=False):
     df_data['postcode_beginning'] = df_data.postcode.str[0:4]
     df_data['price_pm'] = df_data['rental_price'] / df_data['living_area']
     df_data['energie_class'] = df_data['energielabel'].apply(lambda x: energyclasses[x]).replace(0, np.NaN)
-    if save:
-        df_data.to_csv('all_apartments_processed.csv')
+    if not os.path.isfile(all_apartments := 'data/all_apartments_processed.csv'):
+        df_data.to_csv(all_apartments)
+    else:
+        df_data.to_csv(all_apartments, mode='a', header=False, index=False)
     averages = df_data.groupby('postcode_beginning').aggregate(
         {**dict.fromkeys(['price_pm', 'living_area', 'bedrooms', 'rooms', 'energie_class'], 'mean'),
          'address': 'count'}).reset_index()
     averages = averages.rename(columns={'address': 'count'})
     averages['energie_class'] = averages['energie_class'].round().map(energyclasses_reversed)
-    if save:
-        averages.to_csv('data/avg_values.csv')
+    if not os.path.isfile(avg_values := 'data/avg_values.csv'):
+        averages.to_csv(avg_values)
+    else:
+        averages.to_csv(avg_values, mode='a', header=False, index=False)
     return averages
 
 
